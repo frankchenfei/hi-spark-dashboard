@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T12:00:00.000000Z",
-  "week_label": "7/20 - 7/24",
+  "updated_at": "2026-07-25T12:00:00.000000Z",
+  "week_label": "7/21 - 7/25",
   "news": [
     {
       "id": 1001,
@@ -401,6 +401,118 @@
       "title": "通义千问 3.0 QwQ2 发布",
       "summary": "通义千问3.0",
       "date": "7/20"
+    },
+    {
+      "id": 1041,
+      "source": "AdMob",
+      "category": "????",
+      "title": "AdMob Bidding v4.3 ?????????",
+      "summary": "???????",
+      "date": "7/25"
+    },
+    {
+      "id": 1042,
+      "source": "AppLovin",
+      "category": "????",
+      "title": "AppLovin MAX ???? eCPM ????",
+      "summary": "??ECPM??",
+      "date": "7/25"
+    },
+    {
+      "id": 1043,
+      "source": "Pangle",
+      "category": "???",
+      "title": "Pangle ???????? eCPM ?? 28%",
+      "summary": "??????",
+      "date": "7/25"
+    },
+    {
+      "id": 1044,
+      "source": "Meta AN",
+      "category": "SDK",
+      "title": "Meta AN 7.2 ??????????",
+      "summary": "??????",
+      "date": "7/25"
+    },
+    {
+      "id": 1045,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay 6.2 ????????",
+      "summary": "??????",
+      "date": "7/25"
+    },
+    {
+      "id": 1046,
+      "source": "Mintegral",
+      "category": "??",
+      "title": "Mintegral ??? IAS ?????",
+      "summary": "IAS??",
+      "date": "7/25"
+    },
+    {
+      "id": 1047,
+      "source": "NVIDIA",
+      "category": "??",
+      "title": "NVIDIA RTX 6090 Founders Edition ????",
+      "summary": "RTX 6090??",
+      "date": "7/25"
+    },
+    {
+      "id": 1048,
+      "source": "??",
+      "category": "??",
+      "title": "???? X Elite 2 ?? AI PC ????",
+      "summary": "??X Elite 2",
+      "date": "7/25"
+    },
+    {
+      "id": 1049,
+      "source": "???",
+      "category": "??",
+      "title": "??? 2nm ???????? AMD ??",
+      "summary": "2nm????",
+      "date": "7/25"
+    },
+    {
+      "id": 1050,
+      "source": "??",
+      "category": "??",
+      "title": "???? 910C ??????????",
+      "summary": "??910C??",
+      "date": "7/25"
+    },
+    {
+      "id": 2011,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI ?? GPT-5 Turbo ?????? 60%",
+      "summary": "GPT-5 Turbo??",
+      "date": "7/25"
+    },
+    {
+      "id": 2012,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Pro ???????????",
+      "summary": "?????",
+      "date": "7/25"
+    },
+    {
+      "id": 2013,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Claude 6 ??????????????",
+      "summary": "?????",
+      "date": "7/25"
+    },
+    {
+      "id": 2014,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek-V5 ?????? SWE-bench",
+      "summary": "???????",
+      "date": "7/25"
     }
   ],
   "ai_updates": [
@@ -473,6 +585,27 @@
       "date": "7/20",
       "title": "通义千问 3.0 QwQ2 发布",
       "summary": "万亿参数 MoE 模型"
+    },
+    {
+      "id": 311,
+      "source": "OpenAI",
+      "date": "7/25",
+      "title": "GPT-5 Turbo ????",
+      "summary": "???? GPT-4 ? 40%"
+    },
+    {
+      "id": 312,
+      "source": "Anthropic",
+      "date": "7/25",
+      "title": "Claude 6 ???????",
+      "summary": "SOC 2 Type II ????"
+    },
+    {
+      "id": 313,
+      "source": "DeepSeek",
+      "date": "7/25",
+      "title": "DeepSeek-V5 SWE-bench ?????",
+      "summary": "??????????"
     }
   ],
   "weekly_brief": [
@@ -500,6 +633,11 @@
       "date": "7/20",
       "title": "广告联盟出海战国时代",
       "desc": "OPPO、vivo 联盟相继上线"
+    },
+    {
+      "date": "7/25",
+      "title": "AI ?????????GPT-5 Turbo ?? 60%",
+      "desc": "?????????????"
     }
   ],
   "_first_visit": "2026-07-23T00:00:00Z"
