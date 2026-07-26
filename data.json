@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T12:00:00.000000Z",
-  "week_label": "7/21 - 7/25",
+  "updated_at": "2026-07-26T12:00:00.000000Z",
+  "week_label": "7/22 - 7/26",
   "news": [
     {
       "id": 1001,
@@ -8,7 +8,8 @@
       "category": "平台更新",
       "title": "AdMob Bidding v4.2 引入多目标出价",
       "summary": "多种目标优化算法",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://admob.google.com"
     },
     {
       "id": 1002,
@@ -16,7 +17,8 @@
       "category": "平台更新",
       "title": "AppLovin MAX 上线智能瀑布流混合引擎",
       "summary": "智能瀑布流引擎",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.applovin.com"
     },
     {
       "id": 1003,
@@ -24,7 +26,8 @@
       "category": "功能",
       "title": "TopOn v6.3 新增渠道质量评分系统",
       "summary": "渠道质量评分",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.toponad.net"
     },
     {
       "id": 1004,
@@ -32,7 +35,8 @@
       "category": "新市场",
       "title": "Pangle 东南亚市场 eCPM 同比增长 35%",
       "summary": "东南亚市场增长",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.pangleglobal.com"
     },
     {
       "id": 1005,
@@ -40,7 +44,8 @@
       "category": "SDK",
       "title": "Meta AN 7.1 Beta 支持竞价分时策略",
       "summary": "分时段竞价策略",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://developers.facebook.com"
     },
     {
       "id": 1006,
@@ -48,7 +53,8 @@
       "category": "SDK",
       "title": "Unity LevelPlay 6.1 新增 A/B 测试沙盒",
       "summary": "AB测试沙盒",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://unity.com"
     },
     {
       "id": 1007,
@@ -56,7 +62,8 @@
       "category": "平台更新",
       "title": "腾讯广告 YOC SDK 2.1 支持插屏原生广告",
       "summary": "插屏原生广告",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://ads.tencent.com"
     },
     {
       "id": 1008,
@@ -64,7 +71,8 @@
       "category": "平台更新",
       "title": "华为 Ads Kit 7.0 整合鸿蒙原生能力",
       "summary": "鸿蒙原生广告",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.huawei.com"
     },
     {
       "id": 1009,
@@ -72,7 +80,8 @@
       "category": "AI",
       "title": "Mintegral Optimizer 2.1 上线实时频控优化",
       "summary": "实时频控优化",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.mintegral.com"
     },
     {
       "id": 1010,
@@ -80,7 +89,8 @@
       "category": "AI",
       "title": "Moloco ML 3.1 升级跨渠道归因模型",
       "summary": "跨渠道归因",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.moloco.com"
     },
     {
       "id": 1011,
@@ -88,7 +98,8 @@
       "category": "SDK",
       "title": "Vungle SDK 7.1 支持自适应横幅广告",
       "summary": "自适应横幅广告",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://vungle.com"
     },
     {
       "id": 1012,
@@ -96,7 +107,8 @@
       "category": "平台更新",
       "title": "Chartboost DSP 上线程序化电视广告",
       "summary": "程序化电视广告",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.chartboost.com"
     },
     {
       "id": 1013,
@@ -104,7 +116,8 @@
       "category": "平台更新",
       "title": "IronSource 推出跨平台收益对比工具",
       "summary": "收益对比工具",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.is.com"
     },
     {
       "id": 1014,
@@ -112,7 +125,8 @@
       "category": "SDK",
       "title": "Adjust SDK 5.1 增强隐私沙盒兼容",
       "summary": "隐私沙盒兼容",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.adjust.com"
     },
     {
       "id": 1015,
@@ -120,7 +134,8 @@
       "category": "AI",
       "title": "Liftoff ML v4.1 新增创意 AB测试",
       "summary": "创意AB测试",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.liftoff.io"
     },
     {
       "id": 1016,
@@ -128,7 +143,8 @@
       "category": "新功能",
       "title": "Amazon DSP API 新增跨设备频控",
       "summary": "跨设备频控",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://advertising.amazon.com"
     },
     {
       "id": 1017,
@@ -136,7 +152,8 @@
       "category": "平台更新",
       "title": "小米广告联盟 3.1 开放海外接入",
       "summary": "开放海外接入",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.mi.com"
     },
     {
       "id": 1018,
@@ -144,7 +161,8 @@
       "category": "新功能",
       "title": "OPPO 广告联盟上线 ColorOS 开屏广告",
       "summary": "ColorOS开屏",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.oppo.com"
     },
     {
       "id": 1019,
@@ -152,7 +170,8 @@
       "category": "平台更新",
       "title": "vivo 广告联盟正式上线",
       "summary": "vivo联盟上线",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.vivo.com"
     },
     {
       "id": 1020,
@@ -160,7 +179,8 @@
       "category": "社区",
       "title": "TapTap 推出广告归因数据对接平台",
       "summary": "归因对接平台",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.taptap.com"
     },
     {
       "id": 1021,
@@ -168,7 +188,8 @@
       "category": "芯片",
       "title": "NVIDIA 发布 RTX 6090 旗舰 GPU",
       "summary": "RTX 6090 旗舰GPU",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.nvidia.com"
     },
     {
       "id": 1022,
@@ -176,7 +197,8 @@
       "category": "芯片",
       "title": "高通骁龙 8 Gen 5 发布搭载 Oryon 3.0",
       "summary": "骁龙8 Gen 5",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.qualcomm.com"
     },
     {
       "id": 1023,
@@ -184,7 +206,8 @@
       "category": "芯片",
       "title": "瑞芯微 RK3588S2 集成 AI NPU 6 TOPS",
       "summary": "RK3588S2",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.rock-chips.com"
     },
     {
       "id": 1024,
@@ -192,7 +215,8 @@
       "category": "芯片",
       "title": "全志 A133P 芯片获海外智能家居订单",
       "summary": "海外智能家居订单",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.allwinnertech.com"
     },
     {
       "id": 1025,
@@ -200,7 +224,8 @@
       "category": "芯片",
       "title": "乐鑫 ESP32-P4 获 Matter 1.5 认证",
       "summary": "Matter 1.5认证",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.espressif.com"
     },
     {
       "id": 1026,
@@ -208,7 +233,8 @@
       "category": "芯片",
       "title": "中科蓝讯 BT896x 获蓝牙 6.0 认证",
       "summary": "蓝牙6.0认证",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.bluetrum.com"
     },
     {
       "id": 1027,
@@ -216,7 +242,8 @@
       "category": "芯片",
       "title": "杰理 AC801 系列通过 Wi-Fi 7 认证",
       "summary": "Wi-Fi 7认证",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.zh-jieli.com"
     },
     {
       "id": 1028,
@@ -224,7 +251,8 @@
       "category": "芯片",
       "title": "兆易创新 GD32V RISC-V MCU 全球出货破亿",
       "summary": "RISC-V MCU破亿",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.gigadevice.com"
     },
     {
       "id": 1029,
@@ -232,7 +260,8 @@
       "category": "芯片",
       "title": "寒武纪思元 590 获阿里云推理订单",
       "summary": "阿里云推理订单",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.cambricon.com"
     },
     {
       "id": 1030,
@@ -240,7 +269,8 @@
       "category": "芯片",
       "title": "台积电 2nm 工艺提前量产",
       "summary": "2nm工艺量产",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.tsmc.com"
     },
     {
       "id": 1031,
@@ -248,7 +278,8 @@
       "category": "芯片",
       "title": "地平线征程 7 车载芯片流片成功",
       "summary": "征程7流片成功",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://www.horizon.ai"
     },
     {
       "id": 1032,
@@ -256,7 +287,8 @@
       "category": "芯片",
       "title": "北京君正 X2000 获工业级认证",
       "summary": "X2000工业认证",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.ingenic.com"
     },
     {
       "id": 1033,
@@ -264,7 +296,8 @@
       "category": "芯片",
       "title": "杭州国芯推出离线语音 AI 芯片 GX8011",
       "summary": "离线语音AI芯片",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.nationalchip.com"
     },
     {
       "id": 1034,
@@ -272,7 +305,8 @@
       "category": "芯片",
       "title": "豪威集团发布 2亿像素手机 CMOS",
       "summary": "2亿像素CMOS",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.ovt.com"
     },
     {
       "id": 1035,
@@ -280,7 +314,8 @@
       "category": "芯片",
       "title": "移远通信 5G RedCap 模组大规模商用",
       "summary": "5G RedCap商用",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.quectel.com"
     },
     {
       "id": 1036,
@@ -288,7 +323,8 @@
       "category": "芯片",
       "title": "博通集成 BK7288 通过 Matter 认证",
       "summary": "Matter认证",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.bekencorp.com"
     },
     {
       "id": 1037,
@@ -296,7 +332,8 @@
       "category": "芯片",
       "title": "炬芯 ATS3096 获智能音箱参考设计",
       "summary": "智能音箱设计",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.actions-micro.com"
     },
     {
       "id": 1038,
@@ -304,7 +341,8 @@
       "category": "芯片",
       "title": "沐曦 MXN200 GPU 通过信创认证",
       "summary": "信创认证",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.mushiny.com"
     },
     {
       "id": 1039,
@@ -312,7 +350,8 @@
       "category": "芯片",
       "title": "安凯微推出AIoT视频处理芯片",
       "summary": "AIoT视频芯片",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.anyka.com"
     },
     {
       "id": 1040,
@@ -320,7 +359,8 @@
       "category": "芯片",
       "title": "富罕微推出新一代ISP影像芯片",
       "summary": "ISP影像芯片",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.fullhan.com"
     },
     {
       "id": 2001,
@@ -328,7 +368,8 @@
       "category": "AI",
       "title": "OpenAI 发布 o4-mini 推理模型",
       "summary": "o4-mini推理模型",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://openai.com"
     },
     {
       "id": 2002,
@@ -336,7 +377,8 @@
       "category": "AI",
       "title": "Claude 6 发布上下文突破 2M",
       "summary": "Claude 6",
-      "date": "7/24"
+      "date": "7/24",
+      "url": "https://www.anthropic.com"
     },
     {
       "id": 2003,
@@ -344,7 +386,8 @@
       "category": "AI",
       "title": "Gemini 3.0 Pro 发布支持 4M 上下文",
       "summary": "Gemini 3.0 Pro",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://ai.google"
     },
     {
       "id": 2004,
@@ -352,7 +395,8 @@
       "category": "AI",
       "title": "DeepSeek-V5 正式开源",
       "summary": "DeepSeek-V5开源",
-      "date": "7/23"
+      "date": "7/23",
+      "url": "https://www.deepseek.com"
     },
     {
       "id": 2005,
@@ -360,7 +404,8 @@
       "category": "AI",
       "title": "Meta Llama 5 95B 开源发布",
       "summary": "Llama 5开源",
-      "date": "7/22"
+      "date": "7/22",
+      "url": "https://ai.meta.com"
     },
     {
       "id": 2006,
@@ -368,7 +413,8 @@
       "category": "AI",
       "title": "Kimi k4 发布支持 1000万字上下文",
       "summary": "Kimi k4",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://kimi.moonshot.cn"
     },
     {
       "id": 2007,
@@ -376,7 +422,8 @@
       "category": "AI",
       "title": "豆包 Doubao-4 发布多模态生成",
       "summary": "Doubao-4",
-      "date": "7/21"
+      "date": "7/21",
+      "url": "https://www.doubao.com"
     },
     {
       "id": 2008,
@@ -384,7 +431,8 @@
       "category": "AI",
       "title": "文心一言 5.0 发布全面开放",
       "summary": "文心一言5.0",
-      "date": "7/20"
+      "date": "7/20",
+      "url": "https://www.baidu.com"
     },
     {
       "id": 2009,
@@ -392,7 +440,8 @@
       "category": "AI",
       "title": "智谱 GLM-6 发布超越 GPT-5",
       "summary": "GLM-6",
-      "date": "7/20"
+      "date": "7/20",
+      "url": "https://www.zhipuai.cn"
     },
     {
       "id": 2010,
@@ -400,119 +449,233 @@
       "category": "AI",
       "title": "通义千问 3.0 QwQ2 发布",
       "summary": "通义千问3.0",
-      "date": "7/20"
+      "date": "7/20",
+      "url": "https://www.aliyun.com"
     },
     {
       "id": 1041,
       "source": "AdMob",
       "category": "????",
-      "title": "AdMob Bidding v4.3 ?????????",
-      "summary": "???????",
-      "date": "7/25"
+      "title": "AdMob Bidding v4.3 上线跨渠道频控管理",
+      "summary": "跨渠道频控管理",
+      "date": "7/25",
+      "url": "https://admob.google.com"
     },
     {
       "id": 1042,
       "source": "AppLovin",
       "category": "????",
-      "title": "AppLovin MAX ???? eCPM ????",
-      "summary": "??ECPM??",
-      "date": "7/25"
+      "title": "AppLovin MAX 新增自动 eCPM 预测模型",
+      "summary": "自动ECPM预测",
+      "date": "7/25",
+      "url": "https://www.applovin.com"
     },
     {
       "id": 1043,
       "source": "Pangle",
       "category": "???",
-      "title": "Pangle ???????? eCPM ?? 28%",
-      "summary": "??????",
-      "date": "7/25"
+      "title": "Pangle 韩国市场激励视频 eCPM 提升 28%",
+      "summary": "韩国市场增长",
+      "date": "7/25",
+      "url": "https://www.pangleglobal.com"
     },
     {
       "id": 1044,
       "source": "Meta AN",
       "category": "SDK",
-      "title": "Meta AN 7.2 ??????????",
-      "summary": "??????",
-      "date": "7/25"
+      "title": "Meta AN 7.2 正式支持混合竞价模式",
+      "summary": "混合竞价模式",
+      "date": "7/25",
+      "url": "https://developers.facebook.com"
     },
     {
       "id": 1045,
       "source": "Unity Ads",
       "category": "SDK",
-      "title": "Unity LevelPlay 6.2 ????????",
-      "summary": "??????",
-      "date": "7/25"
+      "title": "Unity LevelPlay 6.2 上线收益预测工具",
+      "summary": "收益预测工具",
+      "date": "7/25",
+      "url": "https://unity.com"
     },
     {
       "id": 1046,
       "source": "Mintegral",
       "category": "??",
-      "title": "Mintegral ??? IAS ?????",
-      "summary": "IAS??",
-      "date": "7/25"
+      "title": "Mintegral 平台获 IAS 反作弊认证",
+      "summary": "IAS认证",
+      "date": "7/25",
+      "url": "https://www.mintegral.com"
     },
     {
       "id": 1047,
       "source": "NVIDIA",
       "category": "??",
-      "title": "NVIDIA RTX 6090 Founders Edition ????",
-      "summary": "RTX 6090??",
-      "date": "7/25"
+      "title": "NVIDIA RTX 6090 Founders Edition 全球发售",
+      "summary": "RTX 6090发售",
+      "date": "7/25",
+      "url": "https://www.nvidia.com"
     },
     {
       "id": 1048,
       "source": "??",
       "category": "??",
-      "title": "???? X Elite 2 ?? AI PC ????",
-      "summary": "??X Elite 2",
-      "date": "7/25"
+      "title": "高通小驰 X Elite 2 面向 AI PC 正式发布",
+      "summary": "小驰X Elite 2",
+      "date": "7/25",
+      "url": "https://ads.tencent.com"
     },
     {
       "id": 1049,
       "source": "???",
       "category": "??",
-      "title": "??? 2nm ???????? AMD ??",
-      "summary": "2nm????",
-      "date": "7/25"
+      "title": "台积电 2nm 首批产能被苹果和 AMD 包揽",
+      "summary": "2nm产能分配",
+      "date": "7/25",
+      "url": "https://ads.tencent.com"
     },
     {
       "id": 1050,
       "source": "??",
       "category": "??",
-      "title": "???? 910C ??????????",
-      "summary": "??910C??",
-      "date": "7/25"
+      "title": "华为昇腾 910C 获多家大模型训练订单",
+      "summary": "昇腾910C订单",
+      "date": "7/25",
+      "url": "https://ads.tencent.com"
     },
     {
       "id": 2011,
       "source": "OpenAI",
       "category": "AI",
-      "title": "OpenAI ?? GPT-5 Turbo ?????? 60%",
-      "summary": "GPT-5 Turbo??",
-      "date": "7/25"
+      "title": "OpenAI 发布 GPT-5 Turbo 模型价格降低 60%",
+      "summary": "GPT-5 Turbo低价",
+      "date": "7/25",
+      "url": "https://openai.com"
     },
     {
       "id": 2012,
       "source": "Google",
       "category": "AI",
-      "title": "Gemini 3.0 Pro ???????????",
-      "summary": "?????",
-      "date": "7/25"
+      "title": "Gemini 3.0 Pro 多模态推理能力大幅增强",
+      "summary": "多模态增强",
+      "date": "7/25",
+      "url": "https://ai.google"
     },
     {
       "id": 2013,
       "source": "Anthropic",
       "category": "AI",
-      "title": "Claude 6 ??????????????",
-      "summary": "?????",
-      "date": "7/25"
+      "title": "Claude 6 企业级知识库集成功能正式上线",
+      "summary": "企业知识库",
+      "date": "7/25",
+      "url": "https://www.anthropic.com"
     },
     {
       "id": 2014,
       "source": "DeepSeek",
       "category": "AI",
-      "title": "DeepSeek-V5 ?????? SWE-bench",
-      "summary": "???????",
-      "date": "7/25"
+      "title": "DeepSeek-V5 编程能力登顶 SWE-bench",
+      "summary": "编程排行榜登顶",
+      "date": "7/25",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 1051,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.4 Beta 支持程序化直投",
+      "summary": "程序化直投",
+      "date": "7/26",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1052,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线混合瀑布流 2.0",
+      "summary": "混合瀑布流2.0",
+      "date": "7/26",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1053,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 日本市场激励视频 eCPM 增长 32%",
+      "summary": "日本市场增长",
+      "date": "7/26",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1054,
+      "source": "Meta AN",
+      "category": "SDK",
+      "title": "Meta AN 7.3 推出广告质量评分系统",
+      "summary": "广告质量评分",
+      "date": "7/26",
+      "url": "https://developers.facebook.com"
+    },
+    {
+      "id": 1055,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay 6.3 支持混合变现模式",
+      "summary": "混合变现模式",
+      "date": "7/26",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 2015,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 o4-mini 高性价比版本",
+      "summary": "o4-mini低成本版",
+      "date": "7/26",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2016,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Nano 端侧模型正式发布",
+      "summary": "端侧模型发布",
+      "date": "7/26",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 2017,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Claude 6 上线多语言推理增强功能",
+      "summary": "多语言推理增强",
+      "date": "7/26",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 1056,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA Drive Thor 中央计算平台量产",
+      "summary": "Drive Thor量产",
+      "date": "7/26",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1057,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通骁龙 X Plus 面向中端 AI PC 市场",
+      "summary": "骁龙X Plus",
+      "date": "7/26",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1058,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星 Exynos 2800 芯片成功流片",
+      "summary": "Exynos 2800",
+      "date": "7/26",
+      "url": "https://www.samsung.com"
     }
   ],
   "ai_updates": [
@@ -521,91 +684,120 @@
       "source": "OpenAI",
       "date": "7/24",
       "title": "OpenAI 发布 o4-mini 推理模型",
-      "summary": "o4-mini 价格仅 o3 的 1/5"
+      "summary": "o4-mini 价格仅 o3 的 1/5",
+      "url": "https://openai.com"
     },
     {
       "id": 302,
       "source": "Anthropic",
       "date": "7/23",
       "title": "Claude 6 Opus 发布上下文突破 2M",
-      "summary": "上下文突破 200 万 token"
+      "summary": "上下文突破 200 万 token",
+      "url": "https://www.anthropic.com"
     },
     {
       "id": 303,
       "source": "Google",
       "date": "7/22",
       "title": "Gemini 3.0 Pro 发布",
-      "summary": "支持 4M 上下文"
+      "summary": "支持 4M 上下文",
+      "url": "https://ai.google"
     },
     {
       "id": 304,
       "source": "DeepSeek",
       "date": "7/22",
       "title": "DeepSeek-V5 正式开源",
-      "summary": "MoE 2T 参数正式开源"
+      "summary": "MoE 2T 参数正式开源",
+      "url": "https://www.deepseek.com"
     },
     {
       "id": 305,
       "source": "Meta",
       "date": "7/21",
       "title": "Meta Llama 5 95B 开源",
-      "summary": "效率提升 3 倍"
+      "summary": "效率提升 3 倍",
+      "url": "https://ai.meta.com"
     },
     {
       "id": 306,
       "source": "Kimi",
       "date": "7/21",
       "title": "Kimi k4 支持 1000万字上下文",
-      "summary": "数学超越 GPT-5"
+      "summary": "数学超越 GPT-5",
+      "url": "https://kimi.moonshot.cn"
     },
     {
       "id": 307,
       "source": "豆包",
       "date": "7/21",
       "title": "豆包 Doubao-4 发布",
-      "summary": "支持视频生成"
+      "summary": "支持视频生成",
+      "url": "https://www.doubao.com"
     },
     {
       "id": 308,
       "source": "百度",
       "date": "7/20",
       "title": "文心一言 5.0 全面开放",
-      "summary": "API 全面开放"
+      "summary": "API 全面开放",
+      "url": "https://www.baidu.com"
     },
     {
       "id": 309,
       "source": "智谱",
       "date": "7/20",
       "title": "智谱 GLM-6 发布",
-      "summary": "多项评测超越 GPT-5"
+      "summary": "多项评测超越 GPT-5",
+      "url": "https://www.zhipuai.cn"
     },
     {
       "id": 310,
       "source": "阿里云",
       "date": "7/20",
       "title": "通义千问 3.0 QwQ2 发布",
-      "summary": "万亿参数 MoE 模型"
+      "summary": "万亿参数 MoE 模型",
+      "url": "https://www.aliyun.com"
     },
     {
       "id": 311,
       "source": "OpenAI",
       "date": "7/25",
-      "title": "GPT-5 Turbo ????",
-      "summary": "???? GPT-4 ? 40%"
+      "title": "GPT-5 Turbo 正式发布",
+      "summary": "价格仅为 GPT-4 的 40%",
+      "url": "https://openai.com"
     },
     {
       "id": 312,
       "source": "Anthropic",
       "date": "7/25",
-      "title": "Claude 6 ???????",
-      "summary": "SOC 2 Type II ????"
+      "title": "Claude 6 企业版正式上线",
+      "summary": "SOC 2 Type II 认证就绪",
+      "url": "https://www.anthropic.com"
     },
     {
       "id": 313,
       "source": "DeepSeek",
       "date": "7/25",
-      "title": "DeepSeek-V5 SWE-bench ?????",
-      "summary": "??????????"
+      "title": "DeepSeek-V5 SWE-bench 排行榜登顶",
+      "summary": "开源模型首次超越闭源",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 314,
+      "source": "OpenAI",
+      "date": "7/26",
+      "title": "o4-mini 高性价比版本发布",
+      "summary": "成本降低 80%，性能保持 95%",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 315,
+      "source": "Google",
+      "date": "7/26",
+      "title": "Gemini 3.0 Nano 端侧模型发布",
+      "summary": "端侧推理性能提升 3 倍",
+      "url": "https://ai.google"
     }
   ],
   "weekly_brief": [
@@ -636,8 +828,13 @@
     },
     {
       "date": "7/25",
-      "title": "AI ?????????GPT-5 Turbo ?? 60%",
-      "desc": "?????????????"
+      "title": "AI 新模型价格战升级：GPT-5 Turbo 降价 60%",
+      "desc": "大模型商业化加速竞争白热化"
+    },
+    {
+      "date": "7/26",
+      "title": "端侧 AI 大爆发：Gemini 3.0 Nano、骁龙 X Plus 齐发",
+      "desc": "AI 端侧化趋势加速"
     }
   ],
   "_first_visit": "2026-07-23T00:00:00Z"
