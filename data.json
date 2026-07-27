@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T12:00:00.000000Z",
-  "week_label": "7/22 - 7/26",
+  "updated_at": "2026-07-27T12:00:00.000000Z",
+  "week_label": "7/23 - 7/27",
   "news": [
     {
       "id": 1001,
@@ -676,6 +676,105 @@
       "summary": "Exynos 2800",
       "date": "7/26",
       "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1059,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.4 正式版上线支持多广告位同步",
+      "summary": "v4.4正式版",
+      "date": "7/27",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1060,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线广告收益分析仪表板",
+      "summary": "收益分析仪表板",
+      "date": "7/27",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1061,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 中东市场激励视频 eCPM 增长 25%",
+      "summary": "中东市场增长",
+      "date": "7/27",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1062,
+      "source": "TopOn",
+      "category": "功能",
+      "title": "TopOn v6.4 新增流量分组 A/B 测试",
+      "summary": "流量分组AB测试",
+      "date": "7/27",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1063,
+      "source": "Moloco",
+      "category": "AI",
+      "title": "Moloco ML 3.2 升级目标 CPI 优化策略",
+      "summary": "目标CPI优化",
+      "date": "7/27",
+      "url": "https://www.moloco.com"
+    },
+    {
+      "id": 2018,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 GPT-5 Turbo API 全线降价",
+      "summary": "API全线降价",
+      "date": "7/27",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2019,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Ultra 正在训练中预计秋季发布",
+      "summary": "Ultra正在训练",
+      "date": "7/27",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 2020,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Claude 6 正式支持多模态图像理解",
+      "summary": "多模态图像理解",
+      "date": "7/27",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 1064,
+      "source": "MediaTek",
+      "category": "芯片",
+      "title": "联发科天玑 9500 旗舰芯片发布",
+      "summary": "天玑9500旗舰",
+      "date": "7/27",
+      "url": "https://www.mediatek.com"
+    },
+    {
+      "id": 1065,
+      "source": "瑞芯微",
+      "category": "芯片",
+      "title": "瑞芯微 RK3578 面向 AIoT 市场发布",
+      "summary": "RK3578 AIoT",
+      "date": "7/27",
+      "url": "https://www.rock-chips.com"
+    },
+    {
+      "id": 1066,
+      "source": "寒武纪",
+      "category": "芯片",
+      "title": "寒武纪思元 610 推理芯片正式量产",
+      "summary": "思元610量产",
+      "date": "7/27",
+      "url": "https://www.cambricon.com"
     }
   ],
   "ai_updates": [
@@ -798,6 +897,22 @@
       "title": "Gemini 3.0 Nano 端侧模型发布",
       "summary": "端侧推理性能提升 3 倍",
       "url": "https://ai.google"
+    },
+    {
+      "id": 316,
+      "source": "OpenAI",
+      "date": "7/27",
+      "title": "GPT-5 Turbo API 价格下调",
+      "summary": "API 价格下调 60%",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 317,
+      "source": "Anthropic",
+      "date": "7/27",
+      "title": "Claude 6 图像理解功能发布",
+      "summary": "多模态能力补全",
+      "url": "https://www.anthropic.com"
     }
   ],
   "weekly_brief": [
@@ -835,6 +950,11 @@
       "date": "7/26",
       "title": "端侧 AI 大爆发：Gemini 3.0 Nano、骁龙 X Plus 齐发",
       "desc": "AI 端侧化趋势加速"
+    },
+    {
+      "date": "7/27",
+      "title": "GPT-5 Turbo API 降价与 Claude 6 多模态更新",
+      "desc": "AI 多模态竞赛升级"
     }
   ],
   "_first_visit": "2026-07-23T00:00:00Z"
