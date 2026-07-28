@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T12:00:00.000000Z",
-  "week_label": "7/23 - 7/27",
+  "updated_at": "2026-07-28T12:00:00.000000Z",
+  "week_label": "7/24 - 7/28",
   "news": [
     {
       "id": 1001,
@@ -455,7 +455,7 @@
     {
       "id": 1041,
       "source": "AdMob",
-      "category": "????",
+      "category": "平台更新",
       "title": "AdMob Bidding v4.3 上线跨渠道频控管理",
       "summary": "跨渠道频控管理",
       "date": "7/25",
@@ -464,7 +464,7 @@
     {
       "id": 1042,
       "source": "AppLovin",
-      "category": "????",
+      "category": "平台更新",
       "title": "AppLovin MAX 新增自动 eCPM 预测模型",
       "summary": "自动ECPM预测",
       "date": "7/25",
@@ -473,7 +473,7 @@
     {
       "id": 1043,
       "source": "Pangle",
-      "category": "???",
+      "category": "新市场",
       "title": "Pangle 韩国市场激励视频 eCPM 提升 28%",
       "summary": "韩国市场增长",
       "date": "7/25",
@@ -500,7 +500,7 @@
     {
       "id": 1046,
       "source": "Mintegral",
-      "category": "??",
+      "category": "功能",
       "title": "Mintegral 平台获 IAS 反作弊认证",
       "summary": "IAS认证",
       "date": "7/25",
@@ -509,7 +509,7 @@
     {
       "id": 1047,
       "source": "NVIDIA",
-      "category": "??",
+      "category": "芯片",
       "title": "NVIDIA RTX 6090 Founders Edition 全球发售",
       "summary": "RTX 6090发售",
       "date": "7/25",
@@ -517,17 +517,17 @@
     },
     {
       "id": 1048,
-      "source": "??",
-      "category": "??",
-      "title": "高通小驰 X Elite 2 面向 AI PC 正式发布",
-      "summary": "小驰X Elite 2",
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通骁龙 X Elite 2 面向 AI PC 正式发布",
+      "summary": "骁龙X Elite 2",
       "date": "7/25",
       "url": "https://ads.tencent.com"
     },
     {
       "id": 1049,
-      "source": "???",
-      "category": "??",
+      "source": "台积电",
+      "category": "芯片",
       "title": "台积电 2nm 首批产能被苹果和 AMD 包揽",
       "summary": "2nm产能分配",
       "date": "7/25",
@@ -535,8 +535,8 @@
     },
     {
       "id": 1050,
-      "source": "??",
-      "category": "??",
+      "source": "华为",
+      "category": "芯片",
       "title": "华为昇腾 910C 获多家大模型训练订单",
       "summary": "昇腾910C订单",
       "date": "7/25",
@@ -775,6 +775,69 @@
       "summary": "思元610量产",
       "date": "7/27",
       "url": "https://www.cambricon.com"
+    },
+    {
+      "id": 1067,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.5 预览版支持多广告位自动优化",
+      "summary": "v4.5预览版",
+      "date": "7/28",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1068,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线广告位自动分配引擎",
+      "summary": "广告位自动分配",
+      "date": "7/28",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1069,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 拉美市场推出新媒介形式",
+      "summary": "拉美新媒介",
+      "date": "7/28",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 2021,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 o4-mini 量产版API",
+      "summary": "o4-mini量产版",
+      "date": "7/28",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2022,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 智能体框架开源",
+      "summary": "智能体框架开源",
+      "date": "7/28",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 1070,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA 发布 Blackwell UltradGPU",
+      "summary": "Blackwell Ultra",
+      "date": "7/28",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1071,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通小驰 8 Gen 5 量产安装率超预期",
+      "summary": "小驰8 Gen 5",
+      "date": "7/28",
+      "url": "https://www.qualcomm.com"
     }
   ],
   "ai_updates": [
@@ -913,6 +976,14 @@
       "title": "Claude 6 图像理解功能发布",
       "summary": "多模态能力补全",
       "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 318,
+      "source": "OpenAI",
+      "date": "7/28",
+      "title": "o4-mini 量产版 API 发布",
+      "summary": "推理速度提升 3 倍",
+      "url": "https://openai.com"
     }
   ],
   "weekly_brief": [
