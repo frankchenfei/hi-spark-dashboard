@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T12:00:00.000000Z",
-  "week_label": "7/24 - 7/28",
+  "updated_at": "2026-07-29T12:00:00.000000Z",
+  "week_label": "7/24 - 7/29",
   "news": [
     {
       "id": 1001,
@@ -522,7 +522,7 @@
       "title": "高通骁龙 X Elite 2 面向 AI PC 正式发布",
       "summary": "骁龙X Elite 2",
       "date": "7/25",
-      "url": "https://ads.tencent.com"
+      "url": "https://www.qualcomm.com"
     },
     {
       "id": 1049,
@@ -531,7 +531,7 @@
       "title": "台积电 2nm 首批产能被苹果和 AMD 包揽",
       "summary": "2nm产能分配",
       "date": "7/25",
-      "url": "https://ads.tencent.com"
+      "url": "https://www.tsmc.com"
     },
     {
       "id": 1050,
@@ -540,7 +540,7 @@
       "title": "华为昇腾 910C 获多家大模型训练订单",
       "summary": "昇腾910C订单",
       "date": "7/25",
-      "url": "https://ads.tencent.com"
+      "url": "https://www.huawei.com"
     },
     {
       "id": 2011,
@@ -838,6 +838,105 @@
       "summary": "小驰8 Gen 5",
       "date": "7/28",
       "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1072,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.5 正式版全面上线",
+      "summary": "v4.5正式版",
+      "date": "7/29",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1073,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线智能广告位分配引擎",
+      "summary": "广告位自动分配",
+      "date": "7/29",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1074,
+      "source": "TopOn",
+      "category": "功能",
+      "title": "TopOn v6.5 新增跨渠道流量分组AB测试",
+      "summary": "跨渠道AB测试",
+      "date": "7/29",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1075,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 中东市场激励视频 eCPM 增长30%",
+      "summary": "中东市场增长",
+      "date": "7/29",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1076,
+      "source": "Meta AN",
+      "category": "SDK",
+      "title": "Meta AN 7.4 上线广告频控管理工具",
+      "summary": "广告频控管理",
+      "date": "7/29",
+      "url": "https://developers.facebook.com"
+    },
+    {
+      "id": 1077,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay 6.4 上线AI收益预测模型",
+      "summary": "AI收益预测",
+      "date": "7/29",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 2023,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 GPT-5 中文优化版本",
+      "summary": "GPT-5中文版",
+      "date": "7/29",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2024,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 多模态API正式开放",
+      "summary": "多模态API开放",
+      "date": "7/29",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 1078,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA Blackwell 中国特供版正式发布",
+      "summary": "Blackwell中国版",
+      "date": "7/29",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1079,
+      "source": "高通",
+      "category": "芯片",
+      "title": "骁龙 X Elite 2 芯片首批出货",
+      "summary": "X Elite 2出货",
+      "date": "7/29",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1080,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电 3nm 产能满载至2027年初",
+      "summary": "3nm产能满载",
+      "date": "7/29",
+      "url": "https://www.tsmc.com"
     }
   ],
   "ai_updates": [
@@ -984,6 +1083,22 @@
       "title": "o4-mini 量产版 API 发布",
       "summary": "推理速度提升 3 倍",
       "url": "https://openai.com"
+    },
+    {
+      "id": 319,
+      "source": "OpenAI",
+      "date": "7/29",
+      "title": "GPT-5 中文版发布",
+      "summary": "中文能力大幅提升",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 320,
+      "source": "Google",
+      "date": "7/29",
+      "title": "Gemini 3.0 Pro API 降价",
+      "summary": "API成本降低40%",
+      "url": "https://ai.google"
     }
   ],
   "weekly_brief": [
@@ -1026,7 +1141,12 @@
       "date": "7/27",
       "title": "GPT-5 Turbo API 降价与 Claude 6 多模态更新",
       "desc": "AI 多模态竞赛升级"
+    },
+    {
+      "date": "7/29",
+      "title": "GPT-5中文版与Gemini 3.0 API同日发布",
+      "desc": "AI多模态能力加速普及"
     }
   ],
-  "_first_visit": "2026-07-23T00:00:00Z"
+  "_first_visit": true
 }
