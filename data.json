@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T12:00:00.000000Z",
-  "week_label": "7/24 - 7/29",
+  "updated_at": "2026-07-30T12:00:00.000000Z",
+  "week_label": "7/24 - 7/30",
   "news": [
     {
       "id": 1001,
@@ -937,6 +937,96 @@
       "summary": "3nm产能满载",
       "date": "7/29",
       "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1081,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.6 预览版支持多媒体组合出价",
+      "summary": "v4.6预览版",
+      "date": "7/30",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1082,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线跨平台收益分析报表",
+      "summary": "跨平台收益分析",
+      "date": "7/30",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1083,
+      "source": "TopOn",
+      "category": "功能",
+      "title": "TopOn v6.6 新增线上开发者平台",
+      "summary": "开发者平台",
+      "date": "7/30",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1084,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 拉美流量稳步增长跨境收入环比增长25%",
+      "summary": "拉美流量增长",
+      "date": "7/30",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1085,
+      "source": "Mintegral",
+      "category": "功能",
+      "title": "Mintegral 新增智能流量调度策略",
+      "summary": "智能流量调度",
+      "date": "7/30",
+      "url": "https://www.mintegral.com"
+    },
+    {
+      "id": 2025,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 GPT-5 图像生成模块",
+      "summary": "GPT-5图像生成",
+      "date": "7/30",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2026,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Claude 6 实时音频通话功能上线",
+      "summary": "实时音频通话",
+      "date": "7/30",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 1086,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA H200 美国现最大规模部署",
+      "summary": "H200大规模部署",
+      "date": "7/30",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1087,
+      "source": "MediaTek",
+      "category": "芯片",
+      "title": "联发科天玑 9500 已定点国内手机厂商",
+      "summary": "天玑 9500定点",
+      "date": "7/30",
+      "url": "https://www.mediatek.com"
+    },
+    {
+      "id": 1088,
+      "source": "寒武纪",
+      "category": "芯片",
+      "title": "寒武纪思元610 获主流云服务商采购",
+      "summary": "思元610采购",
+      "date": "7/30",
+      "url": "https://www.cambricon.com"
     }
   ],
   "ai_updates": [
@@ -1099,6 +1189,22 @@
       "title": "Gemini 3.0 Pro API 降价",
       "summary": "API成本降低40%",
       "url": "https://ai.google"
+    },
+    {
+      "id": 321,
+      "source": "OpenAI",
+      "date": "7/30",
+      "title": "GPT-5 图像生成模块发布",
+      "summary": "支持多轮编辑生成",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 322,
+      "source": "Anthropic",
+      "date": "7/30",
+      "title": "Claude 6 实时音频通话",
+      "summary": "能够实时语音交互",
+      "url": "https://www.anthropic.com"
     }
   ],
   "weekly_brief": [
@@ -1146,6 +1252,11 @@
       "date": "7/29",
       "title": "GPT-5中文版与Gemini 3.0 API同日发布",
       "desc": "AI多模态能力加速普及"
+    },
+    {
+      "date": "7/30",
+      "title": "本周大模型多模态能力集中爆发",
+      "desc": "GPT-5图像、Claude音频、Gemini API齐发"
     }
   ],
   "_first_visit": true
