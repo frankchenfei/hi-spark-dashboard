@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>随心小页</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: system-ui, -apple-system, sans-serif;
+      color: #fff;
+    }
+    .card {
+      background: rgba(255,255,255,0.15);
+      backdrop-filter: blur(12px);
+      padding: 3rem 4rem;
+      border-radius: 24px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+    }
+    h1 { font-size: 3rem; margin: 0 0 0.5rem; }
+    p { font-size: 1.1rem; opacity: 0.85; margin: 0; }
+    .time { margin-top: 1.5rem; font-size: 0.9rem; opacity: 0.6; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>你好 👋</h1>
+    <p>这是一张随便生成的小页面</p>
+    <div class="time" id="time"></div>
+  </div>
+  <script>
+    document.getElementById('time').textContent =
+      new Date().toLocaleString('zh-CN');
+  </script>
+</body>
+</html>
