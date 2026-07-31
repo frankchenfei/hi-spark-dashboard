@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T12:00:00.000000Z",
-  "week_label": "7/24 - 7/30",
+  "updated_at": "2026-07-31T12:00:00.000000Z",
+  "week_label": "7/24 - 7/31",
   "news": [
     {
       "id": 1001,
@@ -1027,6 +1027,96 @@
       "summary": "思元610采购",
       "date": "7/30",
       "url": "https://www.cambricon.com"
+    },
+    {
+      "id": 1089,
+      "source": "AdMob",
+      "category": "SDK",
+      "title": "AdMob Bidding v4.6 正式版上线支持多媒体组合出价",
+      "summary": "v4.6正式版",
+      "date": "7/31",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1090,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线广告位智能优化2.0",
+      "summary": "智能优化2.0",
+      "date": "7/31",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1091,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 巴西市场激励视频eCPM环比增长40%",
+      "summary": "巴西市场增长",
+      "date": "7/31",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1092,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay 6.5 上线多平台统一收益报告",
+      "summary": "多平台统一报告",
+      "date": "7/31",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 1093,
+      "source": "Chartboost",
+      "category": "平台更新",
+      "title": "Chartboost DSP 新增程序化CTV广告渠道",
+      "summary": "程序化CTV",
+      "date": "7/31",
+      "url": "https://www.chartboost.com"
+    },
+    {
+      "id": 2027,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek-V6 发布多模态能力大幅升级",
+      "summary": "DeepSeek-V6发布",
+      "date": "7/31",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 2028,
+      "source": "Meta",
+      "category": "AI",
+      "title": "Meta Llama 5 405B 正式开源发布",
+      "summary": "Llama 5开源",
+      "date": "7/31",
+      "url": "https://ai.meta.com"
+    },
+    {
+      "id": 1094,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通小骑龙8 Gen 5 已拉动国内手机厂商采用",
+      "summary": "小骑龙 Gen 5采用",
+      "date": "7/31",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1095,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "Intel Lunar Lake 处理器开始大规模出货",
+      "summary": "Lunar Lake出货",
+      "date": "7/31",
+      "url": "https://www.intel.com"
+    },
+    {
+      "id": 1096,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星 3nm Exynos 2800 已定点旗舰机型",
+      "summary": "Exynos 2800定点",
+      "date": "7/31",
+      "url": "https://www.samsung.com"
     }
   ],
   "ai_updates": [
@@ -1205,6 +1295,22 @@
       "title": "Claude 6 实时音频通话",
       "summary": "能够实时语音交互",
       "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 323,
+      "source": "DeepSeek",
+      "date": "7/31",
+      "title": "DeepSeek-V6 多模态版本发布",
+      "summary": "视觉+语音+文本全面轭升",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 324,
+      "source": "Meta",
+      "date": "7/31",
+      "title": "Llama 5 405B 开源发布",
+      "summary": "开源模型最新里程碑",
+      "url": "https://ai.meta.com"
     }
   ],
   "weekly_brief": [
@@ -1257,6 +1363,11 @@
       "date": "7/30",
       "title": "本周大模型多模态能力集中爆发",
       "desc": "GPT-5图像、Claude音频、Gemini API齐发"
+    },
+    {
+      "date": "7/31",
+      "title": "7月末大模型开源翻新篇章",
+      "desc": "DeepSeek-V6多模态、Llama 5开源、NVIDIA Blackwell中国版"
     }
   ],
   "_first_visit": true
