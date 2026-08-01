@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T12:00:00.000000Z",
-  "week_label": "7/24 - 7/31",
+  "updated_at": "2026-08-01T12:00:00.000000Z",
+  "week_label": "7/24 - 8/1",
   "news": [
     {
       "id": 1001,
@@ -1117,6 +1117,96 @@
       "summary": "Exynos 2800定点",
       "date": "7/31",
       "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1097,
+      "source": "AdMob",
+      "category": "SDK",
+      "title": "AdMob Bidding v4.7 Beta 上线智能出价策略",
+      "summary": "v4.7智能出价",
+      "date": "8/1",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1098,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 广告变现效率提升30%",
+      "summary": "变现效率提升",
+      "date": "8/1",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1099,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 东南亚市场激励视频eCPM增长28%",
+      "summary": "东南亚市场增长",
+      "date": "8/1",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1100,
+      "source": "Meta AN",
+      "category": "SDK",
+      "title": "Meta AN 7.5 支持iOS 26隐私新规",
+      "summary": "iOS 26隐私新规",
+      "date": "8/1",
+      "url": "https://developers.facebook.com"
+    },
+    {
+      "id": 1101,
+      "source": "Unity Ads",
+      "category": "平台更新",
+      "title": "Unity LevelPlay 6.5 上线跨渠道频控",
+      "summary": "跨渠道频控",
+      "date": "8/1",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 2029,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI GPT-5.1 预览版发布",
+      "summary": "GPT-5.1预览版",
+      "date": "8/1",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2030,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Pro 128K 上下文开放",
+      "summary": "128K上下文",
+      "date": "8/1",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 1102,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA Blackwell Ultra 正式发布",
+      "summary": "Blackwell Ultra",
+      "date": "8/1",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1103,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通骁龙 8 Gen 5 发布海外版",
+      "summary": "骁龙 8 Gen 5",
+      "date": "8/1",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1104,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星 Exynos 2800 流片成功",
+      "summary": "Exynos 2800",
+      "date": "8/1",
+      "url": "https://www.samsung.com"
     }
   ],
   "ai_updates": [
@@ -1311,6 +1401,22 @@
       "title": "Llama 5 405B 开源发布",
       "summary": "开源模型最新里程碑",
       "url": "https://ai.meta.com"
+    },
+    {
+      "id": 325,
+      "source": "OpenAI",
+      "date": "8/1",
+      "title": "GPT-5.1 预览版发布",
+      "summary": "推理速度提升 2 倍",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 326,
+      "source": "Google",
+      "date": "8/1",
+      "title": "Gemini 3.0 Pro 128K 上下文开放",
+      "summary": "长上下文能力全面开放",
+      "url": "https://ai.google"
     }
   ],
   "weekly_brief": [
@@ -1368,6 +1474,11 @@
       "date": "7/31",
       "title": "7月末大模型开源翻新篇章",
       "desc": "DeepSeek-V6多模态、Llama 5开源、NVIDIA Blackwell中国版"
+    },
+    {
+      "date": "8/1",
+      "title": "8月AI新品集中爆发",
+      "desc": "GPT-5.1、Gemini 128K、Blackwell Ultra齐发"
     }
   ],
   "_first_visit": true
