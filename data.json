@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T12:00:00.000000Z",
-  "week_label": "7/24 - 8/1",
+  "updated_at": "2026-08-03T12:00:00.000000Z",
+  "week_label": "7/28 - 8/3",
   "news": [
     {
       "id": 1001,
@@ -1207,6 +1207,186 @@
       "summary": "Exynos 2800",
       "date": "8/1",
       "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1105,
+      "source": "AdMob",
+      "category": "SDK",
+      "title": "AdMob Bidding v4.7 正式版上线",
+      "summary": "v4.7正式版",
+      "date": "8/2",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1106,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin MAX 上线广告质量评分",
+      "summary": "广告质量评分",
+      "date": "8/2",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1107,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 日本市场激励视频eCPM增长22%",
+      "summary": "日本市场增长",
+      "date": "8/2",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1108,
+      "source": "Meta AN",
+      "category": "SDK",
+      "title": "Meta AN 7.5 上线竞价优化",
+      "summary": "竞价优化",
+      "date": "8/2",
+      "url": "https://developers.facebook.com"
+    },
+    {
+      "id": 1109,
+      "source": "Unity Ads",
+      "category": "平台更新",
+      "title": "Unity LevelPlay 6.5 收益报告升级",
+      "summary": "收益报告升级",
+      "date": "8/2",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 2031,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 GPT-5.1 正式版",
+      "summary": "GPT-5.1正式版",
+      "date": "8/2",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2032,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Pro 多模态增强",
+      "summary": "多模态增强",
+      "date": "8/2",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 1110,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA GB300 服务器出货",
+      "summary": "GB300出货",
+      "date": "8/2",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1111,
+      "source": "高通",
+      "category": "芯片",
+      "title": "骁龙 8 Gen 5 首发机型公布",
+      "summary": "骁龙 8 Gen 5",
+      "date": "8/2",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1112,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电 2nm 试产良率提升",
+      "summary": "2nm试产",
+      "date": "8/2",
+      "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1113,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob 上线聚合广告位管理",
+      "summary": "聚合广告位",
+      "date": "8/3",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1114,
+      "source": "AppLovin",
+      "category": "功能",
+      "title": "AppLovin MAX 新增激励视频模板",
+      "summary": "激励视频模板",
+      "date": "8/3",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1115,
+      "source": "TopOn",
+      "category": "平台更新",
+      "title": "TopOn v6.7 支持混合竞价",
+      "summary": "混合竞价",
+      "date": "8/3",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1116,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 新兴市场增长35%",
+      "summary": "新兴市场",
+      "date": "8/3",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1117,
+      "source": "Mintegral",
+      "category": "功能",
+      "title": "Mintegral 上线创意A/B测试",
+      "summary": "创意A/B测试",
+      "date": "8/3",
+      "url": "https://www.mintegral.com"
+    },
+    {
+      "id": 2033,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Claude 6 上线编程助手",
+      "summary": "Claude 6编程",
+      "date": "8/3",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 2034,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek-V6 多语言升级",
+      "summary": "多语言升级",
+      "date": "8/3",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 1118,
+      "source": "AMD",
+      "category": "芯片",
+      "title": "AMD MI400 芯片发布",
+      "summary": "MI400",
+      "date": "8/3",
+      "url": "https://www.amd.com"
+    },
+    {
+      "id": 1119,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "Intel 18A 工艺进展",
+      "summary": "Intel 18A",
+      "date": "8/3",
+      "url": "https://www.intel.com"
+    },
+    {
+      "id": 1120,
+      "source": "瑞芯微",
+      "category": "芯片",
+      "title": "瑞芯微 RK3608 发布",
+      "summary": "RK3608",
+      "date": "8/3",
+      "url": "https://www.rock-chips.com"
     }
   ],
   "ai_updates": [
@@ -1417,6 +1597,38 @@
       "title": "Gemini 3.0 Pro 128K 上下文开放",
       "summary": "长上下文能力全面开放",
       "url": "https://ai.google"
+    },
+    {
+      "id": 327,
+      "source": "OpenAI",
+      "date": "8/2",
+      "title": "GPT-5.1 正式版发布",
+      "summary": "性能与成本全面升级",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 328,
+      "source": "Google",
+      "date": "8/2",
+      "title": "Gemini 3.0 多模态增强",
+      "summary": "视觉+语音能力升级",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 329,
+      "source": "Anthropic",
+      "date": "8/3",
+      "title": "Claude 6 编程助手上线",
+      "summary": "代码生成与修复加速",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 330,
+      "source": "DeepSeek",
+      "date": "8/3",
+      "title": "DeepSeek-V6 多语言升级",
+      "summary": "支持 40+ 语言",
+      "url": "https://www.deepseek.com"
     }
   ],
   "weekly_brief": [
@@ -1479,6 +1691,16 @@
       "date": "8/1",
       "title": "8月AI新品集中爆发",
       "desc": "GPT-5.1、Gemini 128K、Blackwell Ultra齐发"
+    },
+    {
+      "date": "8/2",
+      "title": "GPT-5.1 正式版发布",
+      "desc": "性能与成本全面升级"
+    },
+    {
+      "date": "8/3",
+      "title": "AI 编程助手竞争加剧",
+      "desc": "Claude 6、DeepSeek齐发"
     }
   ],
   "_first_visit": true
