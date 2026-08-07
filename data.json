@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T12:00:00.000000Z",
-  "week_label": "7/28 - 8/3",
+  "updated_at": "2026-08-07T12:00:00.000000Z",
+  "week_label": "8/1 - 8/7",
   "news": [
     {
       "id": 1001,
@@ -1387,6 +1387,519 @@
       "summary": "RK3608",
       "date": "8/3",
       "url": "https://www.rock-chips.com"
+    },
+    {
+      "id": 1121,
+      "source": "AdMob",
+      "category": "平台更新",
+      "title": "AdMob Bidding v4.8 上线隐私沙盒适配方案",
+      "summary": "隐私沙盒适配",
+      "date": "8/4",
+      "url": "https://admob.google.com"
+    },
+    {
+      "id": 1122,
+      "source": "AppLovin",
+      "category": "功能",
+      "title": "AppLovin MAX 新增获客投放目标优化",
+      "summary": "获客投放优化",
+      "date": "8/4",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1123,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay 6.6 上线分时竞价策略",
+      "summary": "分时竞价策略",
+      "date": "8/4",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 1124,
+      "source": "Pangle",
+      "category": "新市场",
+      "title": "Pangle 印度市场激励视频 eCPM 增长 18%",
+      "summary": "印度市场增长",
+      "date": "8/4",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1125,
+      "source": "AdSense",
+      "category": "功能",
+      "title": "AdSense 推出广告主效果周报",
+      "summary": "效果周报",
+      "date": "8/4",
+      "url": "https://adsense.google.com"
+    },
+    {
+      "id": 1126,
+      "source": "TopOn",
+      "category": "平台更新",
+      "title": "TopOn v6.8 支持新增广告位类型",
+      "summary": "新增广告位类型",
+      "date": "8/4",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1127,
+      "source": "Yandex",
+      "category": "功能",
+      "title": "Yandex Ads 上线视频广告自助创建",
+      "summary": "视频广告自助创建",
+      "date": "8/4",
+      "url": "https://yandex.com/ads"
+    },
+    {
+      "id": 1128,
+      "source": "Meta Aud",
+      "category": "SDK",
+      "title": "Meta Audience Network 7.6 增强竞价透明度",
+      "summary": "竞价透明度",
+      "date": "8/4",
+      "url": "https://www.facebook.com/audiencenetwork"
+    },
+    {
+      "id": 1129,
+      "source": "Amazon",
+      "category": "新功能",
+      "title": "Amazon DSP 新增跨设备频控规则",
+      "summary": "跨设备频控",
+      "date": "8/4",
+      "url": "https://advertising.amazon.com"
+    },
+    {
+      "id": 1130,
+      "source": "Bigo",
+      "category": "功能",
+      "title": "Bigo Ads 上线激励视频新模板",
+      "summary": "激励视频模板",
+      "date": "8/5",
+      "url": "https://www.bigo.sg"
+    },
+    {
+      "id": 1131,
+      "source": "Taboola",
+      "category": "功能",
+      "title": "Taboola 开放原生广告 A/B 实验",
+      "summary": "原生广告 A/B",
+      "date": "8/5",
+      "url": "https://www.taboola.com"
+    },
+    {
+      "id": 1132,
+      "source": "App Store",
+      "category": "平台更新",
+      "title": "App Store 广告新增自定义产品页投放",
+      "summary": "自定义产品页",
+      "date": "8/5",
+      "url": "https://www.apple.com/app-store"
+    },
+    {
+      "id": 1133,
+      "source": "Google Play",
+      "category": "平台更新",
+      "title": "Google Play Ads 支持应用内事件优化",
+      "summary": "应用内事件优化",
+      "date": "8/5",
+      "url": "https://play.google.com/console"
+    },
+    {
+      "id": 1134,
+      "source": "TapTap",
+      "category": "功能",
+      "title": "TapTap 广告平台新增归因回传",
+      "summary": "归因回传",
+      "date": "8/5",
+      "url": "https://www.taptap.io"
+    },
+    {
+      "id": 1135,
+      "source": "Moloco",
+      "category": "AI",
+      "title": "Moloco ML 3.3 新增增量预算实验",
+      "summary": "增量预算实验",
+      "date": "8/5",
+      "url": "https://www.moloco.com"
+    },
+    {
+      "id": 1136,
+      "source": "Huawei",
+      "category": "SDK",
+      "title": "华为 Ads Kit 7.1 支持更多原生模板",
+      "summary": "原生模板扩展",
+      "date": "8/5",
+      "url": "https://developer.huawei.com/consumer/cn/hms/huawei-ads"
+    },
+    {
+      "id": 1137,
+      "source": "Oppo",
+      "category": "平台更新",
+      "title": "OPPO 广告联盟上线智能出价",
+      "summary": "智能出价",
+      "date": "8/5",
+      "url": "https://open.oppomobile.com"
+    },
+    {
+      "id": 1138,
+      "source": "Tencent",
+      "category": "SDK",
+      "title": "腾讯广告 YOC SDK 2.2 更新",
+      "summary": "YOC SDK 2.2",
+      "date": "8/5",
+      "url": "https://ad.qq.com"
+    },
+    {
+      "id": 1139,
+      "source": "Kwai",
+      "category": "平台更新",
+      "title": "Kwai 广告平台上线程序化直投",
+      "summary": "程序化直投",
+      "date": "8/6",
+      "url": "https://www.kwai.com"
+    },
+    {
+      "id": 1140,
+      "source": "Mintegral",
+      "category": "功能",
+      "title": "Mintegral 新增创意模板市场",
+      "summary": "创意模板市场",
+      "date": "8/6",
+      "url": "https://www.mintegral.com"
+    },
+    {
+      "id": 1141,
+      "source": "Xiaomi",
+      "category": "新市场",
+      "title": "小米广告联盟开放海外激励视频",
+      "summary": "海外激励视频",
+      "date": "8/6",
+      "url": "https://dev.mi.com/console"
+    },
+    {
+      "id": 1142,
+      "source": "Chartboost",
+      "category": "平台更新",
+      "title": "Chartboost 上线 CTV 程序化直投",
+      "summary": "CTV 程序化直投",
+      "date": "8/6",
+      "url": "https://www.chartboost.com"
+    },
+    {
+      "id": 1143,
+      "source": "Vungle",
+      "category": "SDK",
+      "title": "Vungle SDK 7.2 支持隐私新规",
+      "summary": "隐私新规适配",
+      "date": "8/6",
+      "url": "https://vungle.com"
+    },
+    {
+      "id": 1144,
+      "source": "AdColony",
+      "category": "SDK",
+      "title": "AdColony 推出自适应横幅模板",
+      "summary": "自适应横幅",
+      "date": "8/6",
+      "url": "https://www.adcolony.com"
+    },
+    {
+      "id": 1145,
+      "source": "InMobi",
+      "category": "功能",
+      "title": "InMobi 上线智能瀑布流优化",
+      "summary": "智能瀑布流",
+      "date": "8/6",
+      "url": "https://www.inmobi.com"
+    },
+    {
+      "id": 1146,
+      "source": "Fyber",
+      "category": "功能",
+      "title": "Fyber 开放跨渠道预算管理",
+      "summary": "跨渠道预算",
+      "date": "8/6",
+      "url": "https://www.fyber.com"
+    },
+    {
+      "id": 1147,
+      "source": "IronSource",
+      "category": "功能",
+      "title": "IronSource 上线瀑布流 A/B 实验",
+      "summary": "瀑布流 A/B 实验",
+      "date": "8/6",
+      "url": "https://www.is.com"
+    },
+    {
+      "id": 1148,
+      "source": "IronSource",
+      "category": "功能",
+      "title": "ironSource 聚合报告新增渠道质量评分",
+      "summary": "渠道质量评分",
+      "date": "8/6",
+      "url": "https://www.is.com"
+    },
+    {
+      "id": 1149,
+      "source": "Liftoff",
+      "category": "AI",
+      "title": "Liftoff ML v4.2 新增创意洞察",
+      "summary": "创意洞察",
+      "date": "8/7",
+      "url": "https://liftoff.io"
+    },
+    {
+      "id": 1150,
+      "source": "Adjust",
+      "category": "SDK",
+      "title": "Adjust SDK 5.2 支持数据净室",
+      "summary": "数据净室",
+      "date": "8/7",
+      "url": "https://www.adjust.com"
+    },
+    {
+      "id": 1151,
+      "source": "AppsFlyer",
+      "category": "SDK",
+      "title": "AppsFlyer 上线 SKAdNetwork 报告增强",
+      "summary": "SKAdNetwork 报告",
+      "date": "8/7",
+      "url": "https://www.appsflyer.com"
+    },
+    {
+      "id": 1152,
+      "source": "StartApp",
+      "category": "SDK",
+      "title": "StartApp 支持 iOS 26 隐私新规",
+      "summary": "iOS 26 适配",
+      "date": "8/7",
+      "url": "https://www.startapp.com"
+    },
+    {
+      "id": 1153,
+      "source": "VIVO Ads",
+      "category": "平台更新",
+      "title": "vivo 广告联盟新增激励视频样式",
+      "summary": "激励视频样式",
+      "date": "8/7",
+      "url": "https://ad.vivo.com"
+    },
+    {
+      "id": 1154,
+      "source": "Liftoff",
+      "category": "功能",
+      "title": "Liftoff 上线跨渠道增量测试",
+      "summary": "跨渠道增量",
+      "date": "8/7",
+      "url": "https://liftoff.io"
+    },
+    {
+      "id": 1155,
+      "source": "Adjust",
+      "category": "功能",
+      "title": "Adjust 新增归因面板",
+      "summary": "归因面板",
+      "date": "8/7",
+      "url": "https://www.adjust.com"
+    },
+    {
+      "id": 1156,
+      "source": "AppsFlyer",
+      "category": "功能",
+      "title": "AppsFlyer 新增成本报告",
+      "summary": "成本报告",
+      "date": "8/7",
+      "url": "https://www.appsflyer.com"
+    },
+    {
+      "id": 1157,
+      "source": "StartApp",
+      "category": "功能",
+      "title": "StartApp 上线插屏广告优化",
+      "summary": "插屏广告优化",
+      "date": "8/7",
+      "url": "https://www.startapp.com"
+    },
+    {
+      "id": 2035,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 GPT-5.2 多模态预览版",
+      "summary": "GPT-5.2 多模态",
+      "date": "8/4",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2036,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Pro 开放实时 API",
+      "summary": "实时 API",
+      "date": "8/4",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 2037,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek-V6.1 发布推理优化版本",
+      "summary": "V6.1 推理优化",
+      "date": "8/5",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 2038,
+      "source": "Meta",
+      "category": "AI",
+      "title": "Meta Llama 5 405B 多模态能力更新",
+      "summary": "Llama 5 多模态",
+      "date": "8/5",
+      "url": "https://ai.meta.com"
+    },
+    {
+      "id": 2039,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 发布 Claude 6.5 代码模型",
+      "summary": "Claude 6.5 代码",
+      "date": "8/6",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 2040,
+      "source": "豆包",
+      "category": "AI",
+      "title": "豆包 Doubao-4.1 端侧模型发布",
+      "summary": "Doubao-4.1 端侧",
+      "date": "8/6",
+      "url": "https://www.doubao.com"
+    },
+    {
+      "id": 2041,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 发布 o5-mini 高性价比推理模型",
+      "summary": "o5-mini 推理",
+      "date": "8/7",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 2042,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 3.0 Nano 端侧能力升级",
+      "summary": "Nano 端侧升级",
+      "date": "8/7",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 1158,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA RTX Pro 6000 工作站 GPU 发布",
+      "summary": "RTX Pro 6000",
+      "date": "8/4",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1159,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通骁龙 X Plus 2 获更多 OEM 采用",
+      "summary": "骁龙 X Plus 2",
+      "date": "8/4",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1160,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星 Exynos 2800 量产进度确认",
+      "summary": "Exynos 2800 量产",
+      "date": "8/4",
+      "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1161,
+      "source": "长鑫科技",
+      "category": "芯片",
+      "title": "长鑫科技 DDR5 高频内存正式量产",
+      "summary": "DDR5 高频量产",
+      "date": "8/5",
+      "url": "https://www.cxmt.com"
+    },
+    {
+      "id": 1162,
+      "source": "摩尔线程",
+      "category": "芯片",
+      "title": "摩尔线程 MTT S80 游戏显卡正式发售",
+      "summary": "MTT S80 发售",
+      "date": "8/5",
+      "url": "https://www.mthreads.com"
+    },
+    {
+      "id": 1163,
+      "source": "瑞芯微",
+      "category": "芯片",
+      "title": "瑞芯微 RK3608 系列进入量产",
+      "summary": "RK3608 量产",
+      "date": "8/5",
+      "url": "https://www.rock-chips.com"
+    },
+    {
+      "id": 1164,
+      "source": "壁仞科技",
+      "category": "芯片",
+      "title": "壁仞科技 BR104 训练卡获批量订单",
+      "summary": "BR104 订单",
+      "date": "8/6",
+      "url": "https://www.birentech.com"
+    },
+    {
+      "id": 1165,
+      "source": "天数智芯",
+      "category": "芯片",
+      "title": "天数智芯 MR200 推理卡批量出货",
+      "summary": "MR200 出货",
+      "date": "8/6",
+      "url": "https://www.iluvatar.com"
+    },
+    {
+      "id": 1166,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "Intel Panther Lake 处理器细节曝光",
+      "summary": "Panther Lake",
+      "date": "8/6",
+      "url": "https://www.intel.com"
+    },
+    {
+      "id": 1167,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA GB300 NVL72 开始出货",
+      "summary": "GB300 出货",
+      "date": "8/7",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1168,
+      "source": "高通",
+      "category": "芯片",
+      "title": "高通骁龙 8 Gen 5 Elite 正式发布",
+      "summary": "骁龙 8 Gen 5 Elite",
+      "date": "8/7",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1169,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电 N2 工艺首批产能分配确认",
+      "summary": "N2 产能分配",
+      "date": "8/7",
+      "url": "https://www.tsmc.com"
     }
   ],
   "ai_updates": [
@@ -1629,6 +2142,70 @@
       "title": "DeepSeek-V6 多语言升级",
       "summary": "支持 40+ 语言",
       "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 331,
+      "source": "OpenAI",
+      "date": "8/4",
+      "title": "GPT-5.2 多模态预览版发布",
+      "summary": "视觉语音文本全面升级",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 332,
+      "source": "Google",
+      "date": "8/4",
+      "title": "Gemini 3.0 Pro 实时 API 开放",
+      "summary": "实时流式能力开放",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 333,
+      "source": "DeepSeek",
+      "date": "8/5",
+      "title": "DeepSeek-V6.1 推理优化版发布",
+      "summary": "推理速度提升 30%",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 334,
+      "source": "Meta",
+      "date": "8/5",
+      "title": "Llama 5 405B 多模态更新",
+      "summary": "图像理解能力增强",
+      "url": "https://ai.meta.com"
+    },
+    {
+      "id": 335,
+      "source": "Anthropic",
+      "date": "8/6",
+      "title": "Claude 6.5 代码模型发布",
+      "summary": "代码生成与修复加速",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 336,
+      "source": "豆包",
+      "date": "8/6",
+      "title": "Doubao-4.1 端侧模型发布",
+      "summary": "低功耗端侧推理",
+      "url": "https://www.doubao.com"
+    },
+    {
+      "id": 337,
+      "source": "OpenAI",
+      "date": "8/7",
+      "title": "o5-mini 高性价比推理模型发布",
+      "summary": "成本降低 60%",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 338,
+      "source": "Google",
+      "date": "8/7",
+      "title": "Gemini 3.0 Nano 端侧升级",
+      "summary": "端侧能力全面提升",
+      "url": "https://ai.google"
     }
   ],
   "weekly_brief": [
@@ -1701,7 +2278,27 @@
       "date": "8/3",
       "title": "AI 编程助手竞争加剧",
       "desc": "Claude 6、DeepSeek齐发"
+    },
+    {
+      "date": "8/4",
+      "title": "AI 多模态与广告平台适配加速",
+      "desc": "GPT-5.2、Gemini 实时 API、AdMob 隐私沙盒齐发"
+    },
+    {
+      "date": "8/5",
+      "title": "国产芯片与 AI 模型双线提速",
+      "desc": "长鑫 DDR5、摩尔线程显卡、DeepSeek-V6.1 同日落地"
+    },
+    {
+      "date": "8/6",
+      "title": "端侧 AI 与国产加速卡密集落地",
+      "desc": "Doubao-4.1、Claude 6.5、BR104、MR200 集中发布"
+    },
+    {
+      "date": "8/7",
+      "title": "AI 推理进入高性价比时代",
+      "desc": "o5-mini、Gemini Nano、GB300 并行推进"
     }
   ],
-  "_first_visit": true
+  "_first_visit": "2026-07-23T00:00:00Z"
 }
