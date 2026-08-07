@@ -63,7 +63,7 @@
       "title": "腾讯广告 YOC SDK 2.1 支持插屏原生广告",
       "summary": "插屏原生广告",
       "date": "7/23",
-      "url": "https://ads.tencent.com"
+      "url": "https://ad.qq.com"
     },
     {
       "id": 1008,
@@ -279,7 +279,7 @@
       "title": "地平线征程 7 车载芯片流片成功",
       "summary": "征程7流片成功",
       "date": "7/22",
-      "url": "https://www.horizon.ai"
+      "url": "https://www.horizon.auto"
     },
     {
       "id": 1032,
@@ -1449,7 +1449,7 @@
       "title": "Yandex Ads 上线视频广告自助创建",
       "summary": "视频广告自助创建",
       "date": "8/4",
-      "url": "https://yandex.com/ads"
+      "url": "https://ads.yandex.com"
     },
     {
       "id": 1128,
@@ -1530,7 +1530,7 @@
       "title": "华为 Ads Kit 7.1 支持更多原生模板",
       "summary": "原生模板扩展",
       "date": "8/5",
-      "url": "https://developer.huawei.com/consumer/cn/hms/huawei-ads"
+      "url": "https://developer.huawei.com/consumer/en/doc/harmonyos-guides/ads-publisher-service"
     },
     {
       "id": 1137,
@@ -1900,6 +1900,15 @@
       "summary": "N2 产能分配",
       "date": "8/7",
       "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1170,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电研发出单层MoS2顶栅晶体管",
+      "summary": "台积电与阳明交大团队开发出高性能单层二硫化钼顶栅晶体管，助力突破摩尔定律极限",
+      "date": "8/7",
+      "url": "https://www.tsmc.com"
     }
   ],
   "ai_updates": [
@@ -2206,6 +2215,22 @@
       "title": "Gemini 3.0 Nano 端侧升级",
       "summary": "端侧能力全面提升",
       "url": "https://ai.google"
+    },
+    {
+      "id": 339,
+      "source": "Tongyi",
+      "date": "8/7",
+      "title": "千问 Qwen3.8-MAX 发布",
+      "summary": "千问推出旗舰模型 Qwen3.8-MAX，并上线思考研究、办公助理等新功能",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 340,
+      "source": "xAI",
+      "date": "8/7",
+      "title": "Grok 4.6 正式发布",
+      "summary": "xAI 新一代模型 Grok 4.6 按计划上线，参数规模约 1.5 万亿",
+      "url": "https://x.ai"
     }
   ],
   "weekly_brief": [
