@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T12:00:00.000000Z",
-  "week_label": "8/1 - 8/7",
+  "updated_at": "2026-08-10T12:00:00.000000Z",
+  "week_label": "8/1 - 8/10",
   "news": [
     {
       "id": 1001,
@@ -1909,6 +1909,114 @@
       "summary": "台积电与阳明交大团队开发出高性能单层二硫化钼顶栅晶体管，助力突破摩尔定律极限",
       "date": "8/7",
       "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1171,
+      "source": "TopOn",
+      "category": "新市场",
+      "title": "TopOn 发布 2026 H1 全球移动游戏广告变现报告",
+      "summary": "全球移动游戏广告变现市场约 1200 亿美元，混合变现占比 55.6%",
+      "date": "8/8",
+      "url": "https://www.toponad.net"
+    },
+    {
+      "id": 1172,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin Q2 营收同比增长 53%",
+      "summary": "Q2 营收同比增 53%，MAX 变现侧收入实现双位数环比增长",
+      "date": "8/8",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1173,
+      "source": "Unity Ads",
+      "category": "SDK",
+      "title": "Unity LevelPlay SDK 9.5 正式发布",
+      "summary": "优化竞价延迟并重构 Banner 广告架构",
+      "date": "8/9",
+      "url": "https://unity.com"
+    },
+    {
+      "id": 1174,
+      "source": "Meta Aud",
+      "category": "平台更新",
+      "title": "Meta Audience Network 扩展可玩广告与激励视频",
+      "summary": "广告网络新增可玩广告与激励视频广告形态",
+      "date": "8/10",
+      "url": "https://developers.facebook.com"
+    },
+    {
+      "id": 1175,
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "通义千问 Qwen3.8-Max 即将开源",
+      "summary": "2.4T 参数 MoE 旗舰模型预计下周开放权重",
+      "date": "8/9",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 1176,
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "Apple Mac 集成通义千问",
+      "summary": "Apple Intelligence 接入 Qwen 模型，Mac 端体验升级",
+      "date": "8/8",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 1177,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 因安全评估推迟 Astra 发布",
+      "summary": "网络安全风险评估未完成，Astra 智能体上线延期",
+      "date": "8/8",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 1178,
+      "source": "Google",
+      "category": "AI",
+      "title": "谷歌 Gemini 3.5 Pro 被曝即将发布",
+      "summary": "Gemini 3.5 Pro 发布在即，多模态与推理能力进一步升级",
+      "date": "8/10",
+      "url": "https://blog.google"
+    },
+    {
+      "id": 1179,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电将部分 5nm 产线转为 3nm 服务 AI 订单",
+      "summary": "为满足 AI 芯片订单需求，部分 5nm 产能转向 3nm 制程",
+      "date": "8/8",
+      "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1180,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星晶圆代工产能利用率回升至 70%-80%",
+      "summary": "晶圆代工利用率回暖，下半年目标提升至 100%",
+      "date": "8/9",
+      "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1181,
+      "source": "长鑫科技",
+      "category": "芯片",
+      "title": "苹果测试长鑫科技内存芯片",
+      "summary": "苹果评估长鑫 CXMT 内存芯片，或进入 iPhone 与 MacBook 供应链",
+      "date": "8/9",
+      "url": "https://www.cxmt.com"
+    },
+    {
+      "id": 1182,
+      "source": "摩尔线程",
+      "category": "芯片",
+      "title": "摩尔线程下一代华山 AI 芯片与庐山图形芯片年底发布",
+      "summary": "华山 AI 芯片与庐山图形芯片预计 2026 年底发布",
+      "date": "8/10",
+      "url": "https://www.mthreads.com"
     }
   ],
   "ai_updates": [
@@ -2231,6 +2339,38 @@
       "title": "Grok 4.6 正式发布",
       "summary": "xAI 新一代模型 Grok 4.6 按计划上线，参数规模约 1.5 万亿",
       "url": "https://x.ai"
+    },
+    {
+      "id": 341,
+      "source": "Tongyi",
+      "date": "8/9",
+      "title": "Qwen3.8-Max 即将开源",
+      "summary": "2.4T 参数 MoE 旗舰模型预计下周开放",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 342,
+      "source": "Tongyi",
+      "date": "8/8",
+      "title": "Apple Mac 集成通义千问",
+      "summary": "Apple Intelligence 接入 Qwen 模型，Mac 端体验升级",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 343,
+      "source": "OpenAI",
+      "date": "8/8",
+      "title": "OpenAI 推迟 Astra 发布",
+      "summary": "网络安全风险评估未完成，Astra 智能体上线延期",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 344,
+      "source": "Google",
+      "date": "8/10",
+      "title": "Gemini 3.5 Pro 发布在即",
+      "summary": "Gemini 3.5 Pro 传闻临近发布，多模态能力升级",
+      "url": "https://ai.google"
     }
   ],
   "weekly_brief": [
