@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T12:00:00.000000Z",
-  "week_label": "8/1 - 8/10",
+  "updated_at": "2026-08-12T12:00:00.000000Z",
+  "week_label": "8/1 - 8/12",
   "news": [
     {
       "id": 1001,
@@ -2017,6 +2017,141 @@
       "summary": "华山 AI 芯片与庐山图形芯片预计 2026 年底发布",
       "date": "8/10",
       "url": "https://www.mthreads.com"
+    },
+    {
+      "id": 1183,
+      "source": "Meta Aud",
+      "category": "平台更新",
+      "title": "Meta 上线仅排除型自定义受众",
+      "summary": "广告主可在 Ads Manager 中创建仅用于排除的自定义受众，精准控制投放范围并减少无效预算消耗",
+      "date": "8/10",
+      "url": "https://www.facebook.com/audiencenetwork"
+    },
+    {
+      "id": 1184,
+      "source": "Amazon Ads",
+      "category": "平台更新",
+      "title": "Amazon Sponsored Products 扩展至创作者内容",
+      "summary": "商品推广广告可投放到创作者内容与站外优质应用，沿用现有定向、出价与预算",
+      "date": "8/10",
+      "url": "https://advertising.amazon.com"
+    },
+    {
+      "id": 1185,
+      "source": "Unity Ads",
+      "category": "平台更新",
+      "title": "Unity Q2 营收同比增长24% 广告平台 Vector 环比增长23%",
+      "summary": "Q2 营收 5.465 亿美元超预期，Vector 广告平台环比增长 23%，Q3 指引高于市场预期",
+      "date": "8/8",
+      "url": "https://unity.com/ads"
+    },
+    {
+      "id": 1186,
+      "source": "InMobi",
+      "category": "新功能",
+      "title": "InMobi 发布 FRAME Attention 高注意力广告产品",
+      "summary": "覆盖移动应用内视频与联网电视，注意力时长达到同类 YouTube 视频广告的 3.5 倍",
+      "date": "8/10",
+      "url": "https://www.inmobi.com"
+    },
+    {
+      "id": 1187,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "美银下调 AppLovin 评级至中性",
+      "summary": "BofA 将 AppLovin 评级从买入下调至中性，目标价由 430 美元降至 400 美元",
+      "date": "8/11",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1188,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 推出 ChatGPT Business Premium 高级席位",
+      "summary": "Premium 席位用量为标准席位的 5 倍，取消 5 小时使用限制，月费 125 美元",
+      "date": "8/11",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 1189,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 完成70亿美元员工股份回购 估值852亿美元",
+      "summary": "通过要约收购回购员工股份，为潜在 IPO 做准备",
+      "date": "8/11",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 1190,
+      "source": "Google",
+      "category": "AI",
+      "title": "Google Gemini 助手全球月活用户突破10亿",
+      "summary": "皮查伊宣布 Gemini 助手跨过 10 亿用户门槛",
+      "date": "8/11",
+      "url": "https://blog.google"
+    },
+    {
+      "id": 1191,
+      "source": "Google",
+      "category": "AI",
+      "title": "消息称 Google 已搁置 Gemini 3.5 Pro 发布",
+      "summary": "SemiAnalysis 报告称 3.5 Pro 或已被取消，谷歌可能提前主推 Gemini 4",
+      "date": "8/11",
+      "url": "https://blog.google"
+    },
+    {
+      "id": 1192,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 为 Claude 输出加入隐形水印与 C2PA 元数据",
+      "summary": "8月2日起欧盟区新发布模型支持机器可读标记，提升 AI 内容溯源能力",
+      "date": "8/10",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 1193,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "台积电董事会批准294.4亿美元资本预算",
+      "summary": "资金用于先进制程、先进封装与特殊制程扩产，年内累计核准约 607 亿美元",
+      "date": "8/11",
+      "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1194,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA 联合六大金融机构融资超5000亿美元支持AI基建",
+      "summary": "与 Apollo、BlackRock、Blackstone、Brookfield、高盛、KKR 合作，释放超 5000 亿美元私人资本",
+      "date": "8/11",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1195,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "Intel 普通股增发规模扩大至200亿美元",
+      "summary": "以每股 95 美元发行约 2.1 亿股，募资用于 AI 基础设施与资本开支",
+      "date": "8/11",
+      "url": "https://www.intel.com"
+    },
+    {
+      "id": 1196,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星计划将 High-NA EUV 引入1nm节点",
+      "summary": "2nm/1.4nm 将采用现有 EUV 多重曝光，1nm 节点预计 2030 年前后量产",
+      "date": "8/11",
+      "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1197,
+      "source": "Micron",
+      "category": "芯片",
+      "title": "美光称数据中心内存需求超供应一半以上",
+      "summary": "客户以高价抢购内存，现有产能无法满足过半数据中心需求",
+      "date": "8/12",
+      "url": "https://www.micron.com"
     }
   ],
   "ai_updates": [
@@ -2371,6 +2506,46 @@
       "title": "Gemini 3.5 Pro 发布在即",
       "summary": "Gemini 3.5 Pro 传闻临近发布，多模态能力升级",
       "url": "https://ai.google"
+    },
+    {
+      "id": 345,
+      "source": "OpenAI",
+      "date": "8/11",
+      "title": "ChatGPT Business 新增 Premium 高级席位",
+      "summary": "用量提升5倍并取消5小时限制",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 346,
+      "source": "OpenAI",
+      "date": "8/11",
+      "title": "OpenAI 完成70亿美元员工股份回购",
+      "summary": "估值852亿美元，为潜在IPO做准备",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 347,
+      "source": "Google",
+      "date": "8/11",
+      "title": "Gemini 助手月活突破10亿",
+      "summary": "皮查伊宣布 Gemini 跨过10亿用户门槛",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 348,
+      "source": "Google",
+      "date": "8/11",
+      "title": "Gemini 3.5 Pro 被曝搁置",
+      "summary": "SemiAnalysis 称3.5 Pro或已取消，谷歌或提前主推Gemini 4",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 349,
+      "source": "Anthropic",
+      "date": "8/10",
+      "title": "Claude 输出新增隐形水印与 C2PA 元数据",
+      "summary": "欧盟区新发布模型支持机器可读溯源标记",
+      "url": "https://www.anthropic.com"
     }
   ],
   "weekly_brief": [
