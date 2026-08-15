@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T12:00:00.000000Z",
-  "week_label": "8/1 - 8/13",
+  "updated_at": "2026-08-15T12:00:00.000000Z",
+  "week_label": "8/1 - 8/15",
   "news": [
     {
       "id": 2008,
@@ -2278,6 +2278,159 @@
       "summary": "华尔街关注芯片残值担保风险，黄仁勋称 H100 等老芯片租赁价值仍坚挺",
       "date": "8/13",
       "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1212,
+      "source": "Pangle",
+      "category": "平台更新",
+      "title": "DoubleVerify 为 TikTok Pangle 提供 48 个市场的媒体质量测量",
+      "summary": "独立媒体质量测量覆盖美国及国际市场，Pangle 已连接超 40 万款应用",
+      "date": "8/14",
+      "url": "https://www.pangleglobal.com"
+    },
+    {
+      "id": 1213,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "摩根大通给予 AppLovin 中性评级 目标价 400 美元",
+      "summary": "新覆盖评级中性，关注游戏广告增长持续性及 Unity、Meta 竞争压力",
+      "date": "8/14",
+      "url": "https://www.applovin.com"
+    },
+    {
+      "id": 1214,
+      "source": "Unity Ads",
+      "category": "平台更新",
+      "title": "Unity Q2 业绩超预期 获四家机构上调评级",
+      "summary": "Vector 广告引擎环比增长 23%、同比增长 90%，股价上涨 12.2%",
+      "date": "8/14",
+      "url": "https://unity.com/ads"
+    },
+    {
+      "id": 1215,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 为 GPT-5.6 Sol 推出 Ultrafast 极速模式",
+      "summary": "处理速度最高提升 14 倍，每秒最高生成 750 个输出 Token，先通过 API 限量预览",
+      "date": "8/14",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 1216,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 年化营收突破 400 亿美元",
+      "summary": "较 2025 年底约翻一番，进一步增强公司筹备上市的信心",
+      "date": "8/14",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 1217,
+      "source": "Google",
+      "category": "AI",
+      "title": "Google 发布 Gemini 3.7 Flash 模型",
+      "summary": "面向软件编程与自动化任务，强化 Agent 工作流与端侧能力",
+      "date": "8/14",
+      "url": "https://blog.google"
+    },
+    {
+      "id": 1218,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek 开源 Harness 开发者预览版",
+      "summary": "以 MIT 协议开放源代码，采用一切皆插件的架构理念",
+      "date": "8/14",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 1219,
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "阿里巴巴正式开源 Qwen3.8 系列模型",
+      "summary": "新增开源 Qwen3.8-27B 原生多模态 Dense 模型，采用 Apache 2.0 协议",
+      "date": "8/14",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 1220,
+      "source": "xAI",
+      "category": "AI",
+      "title": "Grok 4.6 上线 GitHub Copilot",
+      "summary": "VS Code 与 GitHub 开发者可直接使用 Grok 4.6 模型",
+      "date": "8/14",
+      "url": "https://x.ai"
+    },
+    {
+      "id": 1221,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "传 Anthropic 以超 2 万亿美元估值筹备 10 月 IPO",
+      "summary": "FT 报道投资者预期 IPO 估值或超 SpaceX，Claude 收入快速增长",
+      "date": "8/14",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 1222,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "NVIDIA 官宣 Spectrum-X 硅光交换机全面量产",
+      "summary": "CPO 交换机进入量产，激光器数量减少 4 倍、功耗降低 5 倍、可靠性提升 10 倍",
+      "date": "8/14",
+      "url": "https://www.nvidia.com"
+    },
+    {
+      "id": 1223,
+      "source": "台积电",
+      "category": "芯片",
+      "title": "NVIDIA 下一代 Feynman GPU 采用台积电 A16 制程",
+      "summary": "跳过 N2 系列节点，直接转向更先进的 1.6nm A16 设计",
+      "date": "8/14",
+      "url": "https://www.tsmc.com"
+    },
+    {
+      "id": 1224,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "英特尔 CEO 暗示可能重返存储芯片业务",
+      "summary": "完成 200 亿美元融资并招募存储高管，新存储架构被列为重点方向",
+      "date": "8/14",
+      "url": "https://www.intel.com"
+    },
+    {
+      "id": 1225,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星拟将研发产线转为代工 生产 2nm HBM 基础裸片",
+      "summary": "NRD-K Line 2 改作代工产线，主要满足 NVIDIA HBM 需求",
+      "date": "8/14",
+      "url": "https://www.samsung.com"
+    },
+    {
+      "id": 1226,
+      "source": "Qualcomm",
+      "category": "芯片",
+      "title": "高通公布 Snapdragon C 处理器规格",
+      "summary": "面向 300 美元起低价笔记本，八核 Kryo CPU 最高主频 3GHz",
+      "date": "8/14",
+      "url": "https://www.qualcomm.com"
+    },
+    {
+      "id": 1227,
+      "source": "SK Hynix",
+      "category": "芯片",
+      "title": "SK 集团会长：明年或迎最严重存储缺货 客户需求近翻倍",
+      "summary": "崔泰源称所有客户要求的供货量接近原有需求两倍，存储价格涨幅过快",
+      "date": "8/14",
+      "url": "https://www.skhynix.com"
+    },
+    {
+      "id": 1228,
+      "source": "Micron",
+      "category": "芯片",
+      "title": "美光向 AI 初创公司投资 2.5 亿美元",
+      "summary": "提前布局未来存储与内存需求，消息带动盘前股价上涨近 2%",
+      "date": "8/14",
+      "url": "https://www.micron.com"
     }
   ],
   "ai_updates": [
@@ -2711,6 +2864,62 @@
       "date": "8/13",
       "title": "Claude 隐形水印引发用户争议",
       "summary": "欧盟AI法案合规要求，部分用户不满",
+      "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 355,
+      "source": "OpenAI",
+      "date": "8/14",
+      "title": "GPT-5.6 Sol 推出 Ultrafast 极速模式",
+      "summary": "速度提升14倍，每秒最高750输出Token",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 356,
+      "source": "OpenAI",
+      "date": "8/14",
+      "title": "OpenAI 年化营收突破400亿美元",
+      "summary": "较2025年底翻番，增强上市信心",
+      "url": "https://openai.com"
+    },
+    {
+      "id": 357,
+      "source": "Google",
+      "date": "8/14",
+      "title": "发布 Gemini 3.7 Flash 模型",
+      "summary": "面向编程与自动化任务，强化Agent能力",
+      "url": "https://ai.google"
+    },
+    {
+      "id": 358,
+      "source": "DeepSeek",
+      "date": "8/14",
+      "title": "开源 Harness 开发者预览版",
+      "summary": "MIT协议开源，一切皆插件架构",
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": 359,
+      "source": "Tongyi",
+      "date": "8/14",
+      "title": "Qwen3.8 系列模型正式开源",
+      "summary": "新增27B原生多模态Dense模型",
+      "url": "https://tongyi.aliyun.com"
+    },
+    {
+      "id": 360,
+      "source": "xAI",
+      "date": "8/14",
+      "title": "Grok 4.6 上线 GitHub Copilot",
+      "summary": "VS Code与GitHub开发者可直接使用",
+      "url": "https://x.ai"
+    },
+    {
+      "id": 361,
+      "source": "Anthropic",
+      "date": "8/14",
+      "title": "传以超2万亿美元估值筹备10月IPO",
+      "summary": "投资者预期估值或超SpaceX",
       "url": "https://www.anthropic.com"
     }
   ],
