@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T12:00:00.000000Z",
-  "week_label": "8/1 - 8/15",
+  "updated_at": "2026-08-17T12:00:00.000000Z",
+  "week_label": "8/1 - 8/17",
   "news": [
     {
       "id": 2008,
@@ -2431,6 +2431,132 @@
       "summary": "提前布局未来存储与内存需求，消息带动盘前股价上涨近 2%",
       "date": "8/14",
       "url": "https://www.micron.com"
+    },
+    {
+      "id": 1230,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "AppLovin 遭美银下调评级 股价回落 市场担忧增长引擎可持续性",
+      "summary": "BofA 将评级从买入下调至中性，关注 AI 驱动增长的持续性",
+      "date": "8/15",
+      "url": "https://www.harianbasis.co/en/applovin-stock-plunges-ai-growth-doubts"
+    },
+    {
+      "id": 1231,
+      "source": "Unity Ads",
+      "category": "平台更新",
+      "title": "Unity 广告平台 Vector Q2 环比增长23% 年化收入提前突破10亿美元",
+      "summary": "Q2 业绩超预期，广告平台 Vector 增长加速并推动 Q3 指引上调",
+      "date": "8/15",
+      "url": "https://www.edgen.tech/zh/news/post/unity-software-beats-q2-estimates-as-vector-ad-growth-accelerates#1"
+    },
+    {
+      "id": 1232,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 财务总监：企业业务收入已超越消费者业务",
+      "summary": "企业客户增速更快，整体年化收入约 400 亿美元",
+      "date": "8/15",
+      "url": "https://www.guandian.cn/article/20260817/585729.html"
+    },
+    {
+      "id": 1233,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 新增关闭可见AI水印选项 保留SynthID与C2PA",
+      "summary": "可关闭可见水印，但 SynthID 隐形水印和 C2PA 元数据仍保留",
+      "date": "8/15",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "id": 1234,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "英伟达拟向软银SB Energy投资至多30亿美元 支撑OpenAI俄亥俄数据中心",
+      "summary": "投资将用于 OpenAI 俄亥俄项目的能源与数据中心基础设施",
+      "date": "8/15",
+      "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html"
+    },
+    {
+      "id": 1235,
+      "source": "Taboola",
+      "category": "平台更新",
+      "title": "Taboola Q2 扭亏为盈 净利润432万美元 上调全年指引",
+      "summary": "Q2 营收 4.77 亿美元，净利由亏转盈并上调全年指引",
+      "date": "8/16",
+      "url": "https://ppc.land/google-policy-cuts-20-million-from-taboolas-second-half-profit/#1"
+    },
+    {
+      "id": 1236,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic Q2营收超115亿美元 同比增长1361%",
+      "summary": "初步数据显示季度营收超 115 亿美元，为潜在 IPO 提供支撑",
+      "date": "8/16",
+      "url": "https://finance.cnr.cn/gstj/20260816/t20260816_527764479.shtml"
+    },
+    {
+      "id": 1237,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek V4 Pro 正式版与 Harness 上线国家超算互联网",
+      "summary": "依托十万卡级超智融合算力池，提供大模型全生命周期算力支撑",
+      "date": "8/16",
+      "url": "https://www.ithome.com/0/990/002.htm"
+    },
+    {
+      "id": 1238,
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "Qwen 全球下载量突破30亿 开源模型家族位列全球第一",
+      "summary": "六个月下载量超 30 亿，超越 Meta 与 Google 系开源模型",
+      "date": "8/16",
+      "url": "https://www.thehindubusinessline.com/info-tech/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google/article71349153.ece"
+    },
+    {
+      "id": 1239,
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "TSMC 成5950亿美元云资本开支浪潮最大赢家 上调全年指引",
+      "summary": "全年营收指引上调超 40%，资本开支提高至 600-640 亿美元",
+      "date": "8/16",
+      "url": "https://www.edgen.tech/zh/news/post/tsmc-emerges-as-clear-winner-from-595b-cloud-capex-surge"
+    },
+    {
+      "id": 1240,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "英特尔副总裁确认 Nova Lake 平台率先登陆桌面端",
+      "summary": "新核心架构面向游戏玩家，桌面端将先于数据中心推出",
+      "date": "8/16",
+      "url": "https://tech.ifeng.com/c/8ve3B7a6PHB"
+    },
+    {
+      "id": 1241,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星电子2026上半年DRAM份额升至39.4% 创历史新高",
+      "summary": "较去年同期提升5.4个百分点，AI服务器存储需求带动增长",
+      "date": "8/16",
+      "url": "https://tech.ifeng.com/c/8vcLKbjIKTR"
+    },
+    {
+      "id": 1229,
+      "source": "Meta Aud",
+      "category": "平台更新",
+      "title": "美国29州诉讼开庭 Meta 或被判最高约1.4万亿美元赔偿",
+      "summary": "奥克兰联邦法院开庭，Meta 估计最坏情况成本接近其整体市值",
+      "date": "8/17",
+      "url": "https://observer.co.uk/news/the-sensemaker/article/meta-is-in-the-dock-again-but-this-is-the-big-one"
+    },
+    {
+      "id": 1242,
+      "source": "MediaTek",
+      "category": "芯片",
+      "title": "iQOO Neo11至尊版首发联发科定制天玑9500M 3nm全大核",
+      "summary": "基于台积电第三代3nm工艺，采用全大核架构与Monster超核引擎",
+      "date": "8/17",
+      "url": "https://news.17173.com/content/08172026/120115469.shtml"
     }
   ],
   "ai_updates": [
@@ -2921,6 +3047,54 @@
       "title": "传以超2万亿美元估值筹备10月IPO",
       "summary": "投资者预期估值或超SpaceX",
       "url": "https://www.anthropic.com"
+    },
+    {
+      "id": 362,
+      "source": "OpenAI",
+      "date": "8/15",
+      "title": "企业业务收入超越消费者业务",
+      "summary": "CFO 表示企业客户收入增速更快，整体年化营收约 400 亿美元",
+      "url": "https://www.guandian.cn/article/20260817/585729.html"
+    },
+    {
+      "id": 363,
+      "source": "OpenAI",
+      "date": "8/15",
+      "title": "俄亥俄数据中心担保规模下调至不足1200亿美元",
+      "summary": "英伟达拟提供低于 1200 亿美元的初始担保，较原 2500 亿美元缩减",
+      "url": "https://www.koreatimes.co.kr/world/20260815/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-center-wsj-reports?prnewsidx=21f283fc-9842-11f1-953b-02c589f5fd29"
+    },
+    {
+      "id": 364,
+      "source": "Google",
+      "date": "8/15",
+      "title": "Gemini 支持关闭可见AI水印",
+      "summary": "SynthID 隐形水印与 C2PA 元数据仍保留，内容溯源不受影响",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "id": 365,
+      "source": "DeepSeek",
+      "date": "8/16",
+      "title": "V4 Pro 正式版与 Harness 上线国家超算互联网",
+      "summary": "提供大模型全生命周期算力支撑，可一站式部署开发",
+      "url": "https://www.ithome.com/0/990/002.htm"
+    },
+    {
+      "id": 366,
+      "source": "Tongyi",
+      "date": "8/16",
+      "title": "Qwen 全球下载量突破30亿",
+      "summary": "开源模型家族下载量全球第一，超越 Meta 与 Google",
+      "url": "https://www.thehindubusinessline.com/info-tech/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google/article71349153.ece"
+    },
+    {
+      "id": 367,
+      "source": "Anthropic",
+      "date": "8/16",
+      "title": "Q2营收超115亿美元 同比增长1361%",
+      "summary": "初步数据较去年同期 7.87 亿美元大幅增长，IPO 预期升温",
+      "url": "https://finance.cnr.cn/gstj/20260816/t20260816_527764479.shtml"
     }
   ],
   "weekly_brief": [
