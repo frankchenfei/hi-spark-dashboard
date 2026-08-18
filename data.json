@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T12:00:00.000000Z",
-  "week_label": "8/1 - 8/17",
+  "updated_at": "2026-08-18T12:00:00.000000Z",
+  "week_label": "8/1 - 8/18",
   "news": [
     {
       "id": 2008,
@@ -2557,6 +2557,114 @@
       "summary": "基于台积电第三代3nm工艺，采用全大核架构与Monster超核引擎",
       "date": "8/17",
       "url": "https://news.17173.com/content/08172026/120115469.shtml"
+    },
+    {
+      "id": 1243,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "Benchmark 下调 AppLovin 目标价至440美元 维持买入评级",
+      "summary": "受移动游戏广告业务整合影响，Q3 增长预期放缓，但买入评级不变",
+      "date": "8/17",
+      "url": "https://www.boerse-express.com/news/articles/applovin-benchmark-senkt-ziel-auf-440-dollar-939584"
+    },
+    {
+      "id": 1244,
+      "source": "Tencent",
+      "category": "平台更新",
+      "title": "腾讯Q2营销服务收入435.65亿元 同比增长22% AIM+投放矩阵升级",
+      "summary": "AI 驱动推荐模型优化投放效率，视频号广告加载率仍低于行业均值",
+      "date": "8/17",
+      "url": "https://imgs-b2b.100ec.cn/detail--6662925.html"
+    },
+    {
+      "id": 1245,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI总裁回应高管离职潮：实际上并非特别罕见",
+      "summary": "Greg Brockman 称公司受关注度高导致离职被放大审视，强调管理层保持稳定",
+      "date": "8/17",
+      "url": "https://www.aastocks.com/tc/usq/news/comment.aspx?source=AAFN&id=NOW.1538850&catg=5"
+    },
+    {
+      "id": 1246,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "IPO前夕 Anthropic CEO首次公开回应监管质疑",
+      "summary": "Dario Amodei 主张分级监管约束前沿企业，并为开放权重模型留出空间",
+      "date": "8/17",
+      "url": "https://www.stcn.com/article/detail/4079623.html"
+    },
+    {
+      "id": 1247,
+      "source": "Google",
+      "category": "AI",
+      "title": "Gemini 接入 Ticketmaster 支持活动发现与购票",
+      "summary": "用户可在 Gemini 内查询演出信息、票价并完成购票",
+      "date": "8/17",
+      "url": "https://www.iqmagazine.com/2026/08/google-gemini-becomes-ticketmasters-latest-ai-tool-integration/"
+    },
+    {
+      "id": 1248,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek API 峰谷定价今日生效 最高涨幅达1100%",
+      "summary": "高峰时段缓存命中输入价格涨幅最高，空闲时段为高峰一半",
+      "date": "8/17",
+      "url": "https://finance.eastmoney.com/a/202608173843080573.html"
+    },
+    {
+      "id": 1249,
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "通义发布可笔记本运行的 Qwen3.8-27B 并开放 Max 权重",
+      "summary": "终端侧模型主打代码、办公与智能体任务，同时开放旗舰模型权重",
+      "date": "8/17",
+      "url": "https://www.sohu.com/a/1064079713_122014422"
+    },
+    {
+      "id": 1250,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "英伟达与SB Energy达成多年合作 投资15亿美元并担保最高1050亿美元",
+      "summary": "为 OpenAI 俄亥俄 PORTS 园区提供约 4.25GW IT 负载算力基础设施",
+      "date": "8/17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm"
+    },
+    {
+      "id": 1251,
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "台积电亚利桑那厂上半年利润同比增长662.8% 成最赚钱海外子公司",
+      "summary": "上半年净利润新台币360.66亿元，超越南京厂成为海外利润第一",
+      "date": "8/17",
+      "url": "https://www.trendforce.com/news/2026/08/17/news-tsmc-arizona-profit-soars-663-yoy-in-1h26-u-s-earnings-pull-back-8-2-qoq-in-2q-as-depreciation-bites/"
+    },
+    {
+      "id": 1252,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "英特尔 Nova Lake-S 桌面处理器内部点亮 最高28核或支持AVX-512",
+      "summary": "工程平台日志显示24/28核配置，XSAVE 列表开放 AVX-512 与 APX",
+      "date": "8/17",
+      "url": "https://m.ithome.com/html/990684.htm"
+    },
+    {
+      "id": 1253,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星与SK海力士上半年半导体工厂投资43.198万亿韩元 同比增长35.1%",
+      "summary": "AI 内存需求带动扩产，两家公司产线上半年利用率均达100%",
+      "date": "8/17",
+      "url": "https://www.trendforce.com/news/2026/08/17/news-samsung-sk-hynix-1h26-chip-facility-investment-up-35-nvidia-not-among-samsungs-top-five-customers/"
+    },
+    {
+      "id": 1254,
+      "source": "MediaTek",
+      "category": "芯片",
+      "title": "谷歌 Pixel 11 与 Tensor G6 改用联发科调制解调器",
+      "summary": "取代三星基带，官方称新调制解调器更可靠、更快且更省电",
+      "date": "8/17",
+      "url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/"
     }
   ],
   "ai_updates": [
@@ -3095,6 +3203,46 @@
       "title": "Q2营收超115亿美元 同比增长1361%",
       "summary": "初步数据较去年同期 7.87 亿美元大幅增长，IPO 预期升温",
       "url": "https://finance.cnr.cn/gstj/20260816/t20260816_527764479.shtml"
+    },
+    {
+      "id": 368,
+      "source": "OpenAI",
+      "date": "8/17",
+      "title": "总裁回应高管离职潮",
+      "summary": "Greg Brockman 称高关注度放大离职审视，管理层保持稳定",
+      "url": "https://www.aastocks.com/tc/usq/news/comment.aspx?source=AAFN&id=NOW.1538850&catg=5"
+    },
+    {
+      "id": 369,
+      "source": "Anthropic",
+      "date": "8/17",
+      "title": "CEO首次公开回应监管质疑",
+      "summary": "IPO 前夕回应，主张分级监管约束前沿企业并支持开放权重",
+      "url": "https://www.stcn.com/article/detail/4079623.html"
+    },
+    {
+      "id": 370,
+      "source": "Google",
+      "date": "8/17",
+      "title": "Gemini 接入 Ticketmaster",
+      "summary": "用户可在 Gemini 内发现活动、查看票价并完成购票",
+      "url": "https://www.iqmagazine.com/2026/08/google-gemini-becomes-ticketmasters-latest-ai-tool-integration/"
+    },
+    {
+      "id": 371,
+      "source": "DeepSeek",
+      "date": "8/17",
+      "title": "API 峰谷定价今日生效",
+      "summary": "高峰时段缓存命中输入涨幅最高达1100%，空闲时段半价",
+      "url": "https://finance.eastmoney.com/a/202608173843080573.html"
+    },
+    {
+      "id": 372,
+      "source": "Tongyi",
+      "date": "8/17",
+      "title": "发布笔记本可运行的 Qwen3.8-27B",
+      "summary": "面向消费级硬件，同时开放 Qwen3.8 Max 模型权重",
+      "url": "https://www.sohu.com/a/1064079713_122014422"
     }
   ],
   "weekly_brief": [
