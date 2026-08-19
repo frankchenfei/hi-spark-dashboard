@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:00:00.000000Z",
+  "updated_at": "2026-08-19T12:00:00.000000Z",
   "week_label": "8/1 - 8/18",
   "news": [
     {
@@ -2665,6 +2665,132 @@
       "summary": "取代三星基带，官方称新调制解调器更可靠、更快且更省电",
       "date": "8/17",
       "url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/"
+    },
+    {
+      "id": 1255,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "浦银国际维持 AppLovin 买入评级 目标价上调至515美元",
+      "summary": "浦银国际认为 AppLovin 广告技术壁垒稳固，AI 驱动的广告增长仍有空间",
+      "date": "8/18",
+      "url": "https://stock.stockstar.com/IG2026081800030869.shtml"
+    },
+    {
+      "id": 1256,
+      "source": "Tencent",
+      "category": "功能",
+      "title": "腾讯广告 ADQ 上线“综合兴趣”定向",
+      "summary": "以综合兴趣替代原兴趣行为维度，提升投放人群圈选与转化效率",
+      "date": "8/18",
+      "url": "https://www.teng-ad.com/jd/5329.html"
+    },
+    {
+      "id": 1257,
+      "source": "Moloco",
+      "category": "平台更新",
+      "title": "Moloco 启动 Agency Partner Program 扩展 AI 效果广告",
+      "summary": "面向代理机构开放 AI 投放能力与专属支持，扩大程序化广告生态",
+      "date": "8/18",
+      "url": "https://adtechedge.com/news/moloco-launches-agency-partner-program-to-expand-ai-powered-performance-advertising/"
+    },
+    {
+      "id": 1258,
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 推出 ChatGPT for Teens 含学习模式与家长控制",
+      "summary": "面向青少年全球上线，内置 Study Mode 与家长监督工具",
+      "date": "8/18",
+      "url": "https://www.gadgets360.com/ai/news/openai-chatgpt-for-teens-global-roll-out-study-mode-parental-controls-safety-tools-11926708"
+    },
+    {
+      "id": 1259,
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 上市前年化收入突破650亿美元",
+      "summary": "IPO 临近，企业级与消费级业务保持高速增长",
+      "date": "8/18",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropics-annualized-revenue-tops-65-billion-before-ipo/article71359394.ece"
+    },
+    {
+      "id": 1260,
+      "source": "Google",
+      "category": "AI",
+      "title": "Android Chrome 全面上线 Gemini 自动浏览购物",
+      "summary": "Gemini Pro/Ultra 用户可在 Chrome 中自动浏览网页完成比价与购物",
+      "date": "8/18",
+      "url": "https://www.androidcentral.com/apps-software/ai/geminis-auto-browse-in-chrome-is-finally-here-for-android-to-make-the-mundane-a-breeze"
+    },
+    {
+      "id": 1261,
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek 招聘数据中心人才 或自建算力基础设施",
+      "summary": "公开招聘 IDC 土木、电气等岗位，引发自建数据中心猜测",
+      "date": "8/18",
+      "url": "https://news.qq.com/rain/a/20260818A09DRT00"
+    },
+    {
+      "id": 1262,
+      "source": "豆包",
+      "category": "AI",
+      "title": "豆包工作任务模式上线虚拟桌面 可操控 Windows",
+      "summary": "虚拟桌面支持直接操作 Windows 完成跨应用任务，提升端侧 Agent 能力",
+      "date": "8/18",
+      "url": "https://m.ithome.com/html/991073.htm"
+    },
+    {
+      "id": 1263,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "英伟达高管访 LG 机器人工厂 推进物理 AI 合作",
+      "summary": "双方围绕机器人、物理 AI 与自动驾驶等方向探讨合作",
+      "date": "8/18",
+      "url": "https://en.yna.co.kr/view/AEN20260818008100320?input=2106m"
+    },
+    {
+      "id": 1264,
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "里昂证券上调台积电目标价至3700元新台币",
+      "summary": "看好 AI 先进制程需求与海外产能扩张带来的盈利弹性",
+      "date": "8/18",
+      "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1538916/top-news/AAFN"
+    },
+    {
+      "id": 1265,
+      "source": "Intel",
+      "category": "芯片",
+      "title": "英特尔 CEO 考虑重返存储器 探索 CPU/DRAM 3D 堆叠",
+      "summary": "内部讨论重组存储业务并探索近内存计算架构",
+      "date": "8/18",
+      "url": "https://www.design-reuse-china.com/news/202608043//"
+    },
+    {
+      "id": 1266,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星启动半导体工艺分析实验室升级 聚焦良率",
+      "summary": "升级工艺分析设备与流程，提升先进制程良率和稳定性",
+      "date": "8/18",
+      "url": "https://www.guandian.cn/article/20260818/586774.html"
+    },
+    {
+      "id": 1267,
+      "source": "MediaTek",
+      "category": "芯片",
+      "title": "联发科与爱立信完成分米级 5G 高精度定位测试",
+      "summary": "基于 5G 网络实现亚米级定位精度，面向工业与室内定位场景",
+      "date": "8/18",
+      "url": "https://telcomagazine.com/news/ericsson-achieves-decimetre-level-accuracy-5g-with-mediatek"
+    },
+    {
+      "id": 1268,
+      "source": "SK Hynix",
+      "category": "芯片",
+      "title": "SK 海力士投资54.3万亿韩元新建两座晶圆厂",
+      "summary": "约合384亿美元扩建 DRAM 与 HBM 产能，应对 AI 存储需求",
+      "date": "8/18",
+      "url": "https://vipwt1.cfi.cn/p20260818000330.html"
     }
   ],
   "ai_updates": [
@@ -3243,6 +3369,46 @@
       "title": "发布笔记本可运行的 Qwen3.8-27B",
       "summary": "面向消费级硬件，同时开放 Qwen3.8 Max 模型权重",
       "url": "https://www.sohu.com/a/1064079713_122014422"
+    },
+    {
+      "id": 373,
+      "source": "OpenAI",
+      "date": "8/18",
+      "title": "推出 ChatGPT for Teens",
+      "summary": "全球上线青少年版，含 Study Mode 与家长控制",
+      "url": "https://www.gadgets360.com/ai/news/openai-chatgpt-for-teens-global-roll-out-study-mode-parental-controls-safety-tools-11926708"
+    },
+    {
+      "id": 374,
+      "source": "Anthropic",
+      "date": "8/18",
+      "title": "上市前年化收入突破650亿美元",
+      "summary": "IPO 临近，业务增长持续提速",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropics-annualized-revenue-tops-65-billion-before-ipo/article71359394.ece"
+    },
+    {
+      "id": 375,
+      "source": "Google",
+      "date": "8/18",
+      "title": "Android Chrome 全面上线 Gemini 自动浏览",
+      "summary": "Pro/Ultra 用户可自动浏览网页完成购物",
+      "url": "https://www.androidcentral.com/apps-software/ai/geminis-auto-browse-in-chrome-is-finally-here-for-android-to-make-the-mundane-a-breeze"
+    },
+    {
+      "id": 376,
+      "source": "DeepSeek",
+      "date": "8/18",
+      "title": "招聘数据中心人才或自建算力",
+      "summary": "公开招聘 IDC 土木、电气等岗位",
+      "url": "https://news.qq.com/rain/a/20260818A09DRT00"
+    },
+    {
+      "id": 377,
+      "source": "豆包",
+      "date": "8/18",
+      "title": "任务模式上线虚拟桌面",
+      "summary": "虚拟桌面可操控 Windows 完成跨应用任务",
+      "url": "https://m.ithome.com/html/991073.htm"
     }
   ],
   "weekly_brief": [
