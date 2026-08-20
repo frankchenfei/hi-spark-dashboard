@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T12:00:00.000000Z",
-  "week_label": "8/1 - 8/18",
+  "updated_at": "2026-08-20T12:00:00.000000Z",
+  "week_label": "8/1 - 8/19",
   "news": [
     {
       "id": 2008,
@@ -2791,6 +2791,159 @@
       "summary": "约合384亿美元扩建 DRAM 与 HBM 产能，应对 AI 存储需求",
       "date": "8/18",
       "url": "https://vipwt1.cfi.cn/p20260818000330.html"
+    },
+    {
+      "id": 1269,
+      "source": "Pangle",
+      "category": "平台更新",
+      "title": "Pangle 联合 DV、IAS 护航全球投放透明度",
+      "summary": "第三方测量接入全部48个市场，覆盖品牌安全、可见度与无效流量检测",
+      "date": "8/19",
+      "url": "https://www.10100.com/article/149319079"
+    },
+    {
+      "id": 1270,
+      "source": "Tencent",
+      "category": "功能",
+      "title": "微信 IAA 小游戏新政明日落地：门槛大降、周期翻倍",
+      "summary": "活跃门槛降至累计3分钟，长线激励周期由90天延长至180天",
+      "date": "8/19",
+      "url": "https://www.sohu.com/a/1064883927_267123"
+    },
+    {
+      "id": 1271,
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "Wells Fargo 下调 AppLovin 目标价至325美元 维持中性",
+      "summary": "机构下调目标价但仍维持中性评级，市场对AI广告增长看法分化",
+      "date": "8/19",
+      "url": "https://stockanalysis.com/stocks/app/forecast/"
+    },
+    {
+      "id": 1272,
+      "category": "AI",
+      "source": "OpenAI",
+      "title": "OpenAI 发布新安全政策 强化模型测试阶段风险管控",
+      "summary": "加强开发与后训练阶段监控、对齐与安全要求，暂缓最大规模前沿RL训练",
+      "date": "8/19",
+      "url": "https://www.pingwest.com/w/316568"
+    },
+    {
+      "id": 1273,
+      "category": "AI",
+      "source": "Anthropic",
+      "title": "Anthropic 上市前循环信贷额度将超100亿美元",
+      "summary": "IPO临近，多家银行参与扩大循环信贷以争取承销角色",
+      "date": "8/19",
+      "url": "https://www.thehindubusinessline.com/markets/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/article71363221.ece"
+    },
+    {
+      "id": 1274,
+      "category": "AI",
+      "source": "Google",
+      "title": "Gemini Live 新增 Deep Research 学习工具上线 AI Mode",
+      "summary": "Notebooks 接入 AI Mode，面向返校季推出学生优惠与互动学习功能",
+      "date": "8/19",
+      "url": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/"
+    },
+    {
+      "id": 1275,
+      "category": "AI",
+      "source": "DeepSeek",
+      "title": "DeepSeek 发布 Agent 新产品 Harness",
+      "summary": "官方提示勿与 Claude Code 对标，Agent 领域布局再下一城",
+      "date": "8/19",
+      "url": "https://www.guandian.cn/article/20260819/587146.html"
+    },
+    {
+      "id": 1276,
+      "category": "AI",
+      "source": "豆包",
+      "title": "字节跳动调整 Seed 基模团队架构 为5万亿参数模型铺路",
+      "summary": "成立 Pretrain Data、Horizon RL 等四个一级部门，合并相似工作减少重叠",
+      "date": "8/19",
+      "url": "https://www.ithome.com/0/991/856.htm"
+    },
+    {
+      "id": 1277,
+      "category": "AI",
+      "source": "xAI",
+      "title": "Grok 4.6 现已在 Amazon Bedrock 正式可用",
+      "summary": "xAI 旗舰模型进一步扩展云服务分发渠道",
+      "date": "8/19",
+      "url": "https://finance.eastmoney.com/a/202608193846687320.html"
+    },
+    {
+      "id": 1278,
+      "category": "AI",
+      "source": "Tongyi",
+      "title": "千问办公接入企业微信 打通三大协同办公平台",
+      "summary": "此前已接入钉钉、飞书，实现国内三大主流办公平台全面支持",
+      "date": "8/19",
+      "url": "https://api.jfinfo.com/news/4076367"
+    },
+    {
+      "id": 1279,
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "中国据报批准小批量 H200 进口 字节与腾讯各购约1万枚",
+      "summary": "美国已批准相关企业采购，监管允许将芯片运往香港使用",
+      "date": "8/19",
+      "url": "https://www.stheadline.com/zh-hans/realtime-finance/3605996"
+    },
+    {
+      "id": 1280,
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "台积电先进封装 CoWoS 产能供不应求 订单爆满",
+      "summary": "部分后段订单外溢至英特尔马来西亚厂，打破生态系惯例",
+      "date": "8/19",
+      "url": "https://www.163.com/dy/article/L4N00MDO05198CJN.html"
+    },
+    {
+      "id": 1281,
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星上调先进制程代工价格 最高涨15%",
+      "summary": "受益于台积电产能趋紧，SF4/SF5 等制程订单价格上调",
+      "date": "8/19",
+      "url": "https://m.21jingji.com/article/20260819/herald/ff6339e56ae1dc0e01f6292463f49513.html"
+    },
+    {
+      "id": 1282,
+      "source": "SK Hynix",
+      "category": "芯片",
+      "title": "SK 海力士拟回购40万亿韩元普通股",
+      "summary": "回购约2407万股用于注销库存股，提升股东价值",
+      "date": "8/19",
+      "url": "https://en.yna.co.kr/view/AEN20260819008600320?input=2106m"
+    },
+    {
+      "id": 1283,
+      "source": "摩尔线程",
+      "category": "芯片",
+      "title": "摩尔线程上半年收入暴增147% AI智算集群加速放量",
+      "summary": "营收17.36亿元，夸娥集群完成6.6亿元合同交付",
+      "date": "8/19",
+      "url": "https://futures.cfi.cn/p20260819000183.html"
+    },
+    {
+      "id": 1284,
+      "source": "壁仞科技",
+      "category": "芯片",
+      "title": "壁仞科技联合多方在温州点亮智算集群",
+      "summary": "联合联通浙江、中兴等提供训推一体算力服务",
+      "date": "8/19",
+      "url": "https://www.guandian.cn/article/20260819/587595.html"
+    },
+    {
+      "id": 1285,
+      "source": "瑞芯微",
+      "category": "芯片",
+      "title": "瑞芯微中报净利暴增62% 端侧AI新品加速兑现",
+      "summary": "净利8.59亿元同比增长61.73%，RK182X进入数百客户量产",
+      "date": "8/19",
+      "url": "https://wt.cfi.cn/p20260819000543.html"
     }
   ],
   "ai_updates": [
@@ -3409,6 +3562,62 @@
       "title": "任务模式上线虚拟桌面",
       "summary": "虚拟桌面可操控 Windows 完成跨应用任务",
       "url": "https://m.ithome.com/html/991073.htm"
+    },
+    {
+      "id": 378,
+      "source": "OpenAI",
+      "title": "发布新安全政策",
+      "summary": "强化模型测试阶段风险管控与对齐要求",
+      "date": "8/19",
+      "url": "https://www.pingwest.com/w/316568"
+    },
+    {
+      "id": 379,
+      "source": "Anthropic",
+      "title": "上市前循环信贷额度将超100亿美元",
+      "summary": "IPO临近，多家银行参与扩大循环信贷",
+      "date": "8/19",
+      "url": "https://www.thehindubusinessline.com/markets/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/article71363221.ece"
+    },
+    {
+      "id": 380,
+      "source": "Google",
+      "title": "Gemini Live 新增 Deep Research",
+      "summary": "Notebooks 接入 AI Mode，学习工具升级",
+      "date": "8/19",
+      "url": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/"
+    },
+    {
+      "id": 381,
+      "source": "DeepSeek",
+      "title": "发布 Agent 新产品 Harness",
+      "summary": "官方提示勿与 Claude Code 对标",
+      "date": "8/19",
+      "url": "https://www.guandian.cn/article/20260819/587146.html"
+    },
+    {
+      "id": 382,
+      "source": "豆包",
+      "title": "调整 Seed 基模团队架构",
+      "summary": "为5万亿参数超大模型铺路",
+      "date": "8/19",
+      "url": "https://www.ithome.com/0/991/856.htm"
+    },
+    {
+      "id": 383,
+      "source": "xAI",
+      "title": "Grok 4.6 上线 Amazon Bedrock",
+      "summary": "旗舰模型扩展云服务分发渠道",
+      "date": "8/19",
+      "url": "https://finance.eastmoney.com/a/202608193846687320.html"
+    },
+    {
+      "id": 384,
+      "source": "Tongyi",
+      "title": "千问办公接入企业微信",
+      "summary": "打通国内三大协同办公平台",
+      "date": "8/19",
+      "url": "https://api.jfinfo.com/news/4076367"
     }
   ],
   "weekly_brief": [
