@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T12:00:00.000000Z",
-  "week_label": "8/1 - 8/19",
+  "updated_at": "2026-08-25T12:00:00.000000Z",
+  "week_label": "8/1 - 8/24",
   "news": [
     {
       "id": 2008,
@@ -2944,6 +2944,141 @@
       "summary": "净利8.59亿元同比增长61.73%，RK182X进入数百客户量产",
       "date": "8/19",
       "url": "https://wt.cfi.cn/p20260819000543.html"
+    },
+    {
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "台积电完成 1.6nm A16 制程开发 预计 Q4 量产",
+      "summary": "先进制程再进一步，A16 节点进入量产冲刺阶段",
+      "date": "8/20",
+      "url": "https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1539589/industry-news/Source",
+      "id": 1295
+    },
+    {
+      "source": "Meta Aud",
+      "category": "平台更新",
+      "title": "Meta 取消广告组级版位排除，转向 AI 自动分配",
+      "summary": "品牌需在 Q4 前适配自动化版位，预算分配策略调整",
+      "date": "8/21",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-is-removing-ad-placement-controls-what-ecommerce-brands-must-do-before-q4",
+      "id": 1287
+    },
+    {
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "GPT-5.6 Sol 开发者 API 降价逾 20%",
+      "summary": "面向开发者的输入输出价格下调，降低规模化调用成本",
+      "date": "8/21",
+      "url": "https://m.gmw.cn/2026-08/23/content_1304552338.htm",
+      "id": 1289
+    },
+    {
+      "source": "Gemini",
+      "category": "AI",
+      "title": "Gemini 3.7 Flash 定价降至上一代约一半",
+      "summary": "新版本以更低价格承接高并发推理场景，成本优势明显",
+      "date": "8/21",
+      "url": "https://m.gmw.cn/2026-08/23/content_1304552338.htm",
+      "id": 1290
+    },
+    {
+      "source": "DeepSeek",
+      "category": "AI",
+      "title": "DeepSeek Harness 一周三更 调度层成新战场",
+      "summary": "Agent 产品快速迭代，调度与编排能力竞争升温",
+      "date": "8/21",
+      "url": "https://www.sohu.com/a/1066146857_122985188",
+      "id": 1292
+    },
+    {
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 冲刺史上最大 IPO 最快 8 月底交表",
+      "summary": "估值预期持续走高，成为 AI 独角兽上市的重要风向标",
+      "date": "8/22",
+      "url": "https://fund.eastmoney.com/a/202608223850131416.html",
+      "id": 1291
+    },
+    {
+      "source": "Broadcom",
+      "category": "芯片",
+      "title": "博通拟举债最高 1000 亿美元锁定 AI 芯片产能",
+      "summary": "大规模融资用于扩大定制 AI 芯片供应与产能布局",
+      "date": "8/22",
+      "url": "https://www.sohu.com/a/1066399866_122944531",
+      "id": 1296
+    },
+    {
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "英伟达 AI 芯片服务器明年起涨价超 15%",
+      "summary": "算力需求持续强劲，AI 服务器整机价格上调",
+      "date": "8/23",
+      "url": "https://www.stcn.com/article/detail/4102723.html",
+      "id": 1297
+    },
+    {
+      "source": "AppsFlyer",
+      "category": "平台更新",
+      "title": "AppsFlyer 获以色列 Leumi 银行 4 亿美元授信",
+      "summary": "以信贷额度强化现金流，支撑全球 AI 归因与增长业务扩张",
+      "date": "8/24",
+      "url": "https://www.startupresearcher.com/news/appsflyer-secures-400-million-credit-line-from-bank-leumi",
+      "id": 1286
+    },
+    {
+      "source": "Mintegral",
+      "category": "平台更新",
+      "title": "汇量科技中期溢利 4673 万美元 同比增 44.8%",
+      "summary": "Mintegral 母公司盈利高增长，程序化广告业务持续放量",
+      "date": "8/24",
+      "url": "https://finance.eastmoney.com/a/202608243851443627.html",
+      "id": 1288
+    },
+    {
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "Qwen3.8-27B 开源两日下载破百万",
+      "summary": "新开源模型热度快速攀升，开发者生态进一步扩大",
+      "date": "8/24",
+      "url": "https://stcn.com/article/detail/4104851.html",
+      "id": 1293
+    },
+    {
+      "source": "Zhipu",
+      "category": "AI",
+      "title": "GLM-5.3-Max 首登 Arena 综合榜第 13",
+      "summary": "国产旗舰模型跻身国际综合榜单，能力排名持续提升",
+      "date": "8/24",
+      "url": "https://tech.ifeng.com/c/8vqxYHdVdCO",
+      "id": 1294
+    },
+    {
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星下半年 DRAM 增产或低于预期 优先工艺过渡",
+      "summary": "增产节奏放缓，优先推进先进制程与工艺转换",
+      "date": "8/24",
+      "url": "https://www.guandian.cn/article/20260824/589920.html",
+      "id": 1298
+    },
+    {
+      "source": "长鑫科技",
+      "category": "芯片",
+      "title": "高盛首予长鑫科技买入 目标价 129 元",
+      "summary": "存储国产替代加速，机构给予买入评级",
+      "date": "8/24",
+      "url": "https://www.guandian.cn/article/20260824/589595.html",
+      "id": 1299
+    },
+    {
+      "source": "摩尔线程",
+      "category": "芯片",
+      "title": "摩尔线程发布 MTT S5000 Prefill-as-a-Service 白皮书",
+      "summary": "面向大模型推理的预填充服务方案，降低部署门槛",
+      "date": "8/24",
+      "url": "https://tech.ifeng.com/c/8vqXXYBS1iG",
+      "id": 1300
     }
   ],
   "ai_updates": [
@@ -3618,6 +3753,54 @@
       "summary": "打通国内三大协同办公平台",
       "date": "8/19",
       "url": "https://api.jfinfo.com/news/4076367"
+    },
+    {
+      "source": "OpenAI",
+      "date": "8/21",
+      "title": "GPT-5.6 Sol 开发者 API 降价逾 20%",
+      "summary": "输入输出价格下调，降低规模化调用成本",
+      "url": "https://m.gmw.cn/2026-08/23/content_1304552338.htm",
+      "id": 385
+    },
+    {
+      "source": "Gemini",
+      "date": "8/21",
+      "title": "Gemini 3.7 Flash 定价降至上一代约一半",
+      "summary": "新版本以更低价格承接高并发推理",
+      "url": "https://m.gmw.cn/2026-08/23/content_1304552338.htm",
+      "id": 386
+    },
+    {
+      "source": "DeepSeek",
+      "date": "8/21",
+      "title": "Harness 一周三更 调度层成新战场",
+      "summary": "Agent 产品快速迭代，编排能力竞争升温",
+      "url": "https://www.sohu.com/a/1066146857_122985188",
+      "id": 388
+    },
+    {
+      "source": "Anthropic",
+      "date": "8/22",
+      "title": "冲刺史上最大 IPO 最快 8 月底交表",
+      "summary": "AI 独角兽上市的重要风向标",
+      "url": "https://fund.eastmoney.com/a/202608223850131416.html",
+      "id": 387
+    },
+    {
+      "source": "Tongyi",
+      "date": "8/24",
+      "title": "Qwen3.8-27B 开源两日下载破百万",
+      "summary": "新开源模型热度快速攀升",
+      "url": "https://stcn.com/article/detail/4104851.html",
+      "id": 389
+    },
+    {
+      "source": "Zhipu",
+      "date": "8/24",
+      "title": "GLM-5.3-Max 首登 Arena 综合榜第 13",
+      "summary": "国产旗舰模型跻身国际综合榜单",
+      "url": "https://tech.ifeng.com/c/8vqxYHdVdCO",
+      "id": 390
     }
   ],
   "weekly_brief": [
