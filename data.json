@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T12:00:00.000000Z",
-  "week_label": "8/1 - 8/24",
+  "updated_at": "2026-08-28T12:00:00.000000Z",
+  "week_label": "8/1 - 8/27",
   "news": [
     {
       "id": 2008,
@@ -3079,6 +3079,123 @@
       "date": "8/24",
       "url": "https://tech.ifeng.com/c/8vqXXYBS1iG",
       "id": 1300
+    },
+    {
+      "source": "Meta Aud",
+      "category": "平台更新",
+      "title": "Meta 将聚水潭晋升为 Business Partners 顶级合作伙伴",
+      "summary": "深化电商 SaaS 与广告技术整合，聚焦直播电商与跨境生态协同",
+      "date": "8/25",
+      "url": "https://m.hexun.com/tech/2026-08-26/224894669.html",
+      "id": 1301
+    },
+    {
+      "source": "Doubao",
+      "category": "AI",
+      "title": "字节发布豆包工作 TRAE、Coze 并入豆包体系",
+      "summary": "面向生产力场景的 Agent 产品，与飞书深度打通",
+      "date": "8/25",
+      "url": "https://finance.china.com/TMT/13004688/20260827/49702524.html",
+      "id": 1302
+    },
+    {
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "台积电 2nm 制程量产 苹果 M6、M5 Ultra 首发搭载",
+      "summary": "苹果发布首款 2nm 芯片 M6，M 系列首次三核心架构",
+      "date": "8/25",
+      "url": "https://www.chinaz.com/2026/0826/1773277.shtml",
+      "id": 1303
+    },
+    {
+      "source": "AppsFlyer",
+      "category": "平台更新",
+      "title": "AppsFlyer 发布 APAC 2026 营销报告：安装量与留存指标分化",
+      "summary": "覆盖 300 亿安装量，印度金融 App 安装增 55%，各品类留存普遍承压",
+      "date": "8/26",
+      "url": "https://www.medianews4u.com/indias-finance-app-installs-rise-55-as-apac-sees-broad-based-decline-in-day-30-retention-appsflyer/",
+      "id": 1304
+    },
+    {
+      "source": "Mintegral",
+      "category": "平台更新",
+      "title": "广发证券维持汇量科技买入评级 Mintegral 为核心增长引擎",
+      "summary": "程序化广告收入同比增 24.3%，智能出价体系投入加码",
+      "date": "8/26",
+      "url": "https://www.tradingkey.com/zh-hant/news/stocks/262132376-jinwucj",
+      "id": 1305
+    },
+    {
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "软银考虑为 OpenAI 融资发行最高 200 亿美元债券",
+      "summary": "正与投行讨论 100 亿至 200 亿美元债券发行以再融资",
+      "date": "8/26",
+      "url": "https://stcn.com/article/detail/4126767.html",
+      "id": 1306
+    },
+    {
+      "source": "Tongyi",
+      "category": "AI",
+      "title": "阿里千问 Qwen3.8-Flash 发布并开源 训练成本降近九成",
+      "summary": "全新下一代架构 MoE 模型，每百万 Tokens 输入仅 1 元",
+      "date": "8/26",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33954694",
+      "id": 1307
+    },
+    {
+      "source": "Zhipu",
+      "category": "AI",
+      "title": "智谱开源 GLM-5.3-Flash 首个原生多模态模型",
+      "summary": "320B 参数，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平",
+      "date": "8/26",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/27/content_570955.html",
+      "id": 1308
+    },
+    {
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星电子拟下半年增加对英伟达 8 层 HBM4 供应",
+      "summary": "受英伟达供应策略影响，保障 HBM 供应稳定并兼顾发热",
+      "date": "8/26",
+      "url": "https://finance.eastmoney.com/a/202608263854442359.html",
+      "id": 1309
+    },
+    {
+      "source": "AppLovin",
+      "category": "平台更新",
+      "title": "Needham 下调 AppLovin 目标价至 475 美元 维持买入",
+      "summary": "因 EBITDA 预估调整，目标价由 500 美元下修至 475 美元",
+      "date": "8/27",
+      "url": "https://finance.jrj.com.cn/2026/08/27154558250459.shtml",
+      "id": 1310
+    },
+    {
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 拟向 Nscale 支付 450 亿美元租用 AI 算力",
+      "summary": "六年期协议对应约 460 兆瓦电力，采用英伟达 Vera Rubin 芯片",
+      "date": "8/27",
+      "url": "https://fund.eastmoney.com/a/202608273855314843.html",
+      "id": 1311
+    },
+    {
+      "source": "NVIDIA",
+      "category": "芯片",
+      "title": "英伟达 Q2 营收 962.2 亿美元超预期 Q3 指引 1080 亿美元",
+      "summary": "数据中心收入翻倍至 890 亿美元，预计下财年营收增约 70%",
+      "date": "8/27",
+      "url": "https://www.chaincatcher.com/article/2285793",
+      "id": 1312
+    },
+    {
+      "source": "SK Hynix",
+      "category": "芯片",
+      "title": "SK 海力士美国印第安纳州 HBM 先进封装厂动工",
+      "summary": "投资约 40 亿美元，目标 2029 年量产，美国首座 HBM 工厂",
+      "date": "8/27",
+      "url": "https://m-cn.yna.co.kr/view/ACK20260827003700881",
+      "id": 1313
     }
   ],
   "ai_updates": [
@@ -3801,6 +3918,46 @@
       "summary": "国产旗舰模型跻身国际综合榜单",
       "url": "https://tech.ifeng.com/c/8vqxYHdVdCO",
       "id": 390
+    },
+    {
+      "source": "Doubao",
+      "date": "8/25",
+      "title": "字节发布豆包工作 TRAE、Coze 并入豆包体系",
+      "summary": "面向生产力场景的 Agent 产品，与飞书深度打通",
+      "url": "https://finance.china.com/TMT/13004688/20260827/49702524.html",
+      "id": 391
+    },
+    {
+      "source": "OpenAI",
+      "date": "8/26",
+      "title": "软银考虑为 OpenAI 融资发行最高 200 亿美元债券",
+      "summary": "正与投行讨论债券发行以再融资",
+      "url": "https://stcn.com/article/detail/4126767.html",
+      "id": 392
+    },
+    {
+      "source": "Tongyi",
+      "date": "8/26",
+      "title": "阿里千问 Qwen3.8-Flash 发布并开源 训练成本降近九成",
+      "summary": "全新下一代架构 MoE 模型",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33954694",
+      "id": 393
+    },
+    {
+      "source": "Zhipu",
+      "date": "8/26",
+      "title": "智谱开源 GLM-5.3-Flash 首个原生多模态模型",
+      "summary": "320B 参数，综合智能指数 57 分",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/27/content_570955.html",
+      "id": 394
+    },
+    {
+      "source": "Anthropic",
+      "date": "8/27",
+      "title": "拟向 Nscale 支付 450 亿美元租用 AI 算力",
+      "summary": "六年期协议对应约 460 兆瓦电力",
+      "url": "https://fund.eastmoney.com/a/202608273855314843.html",
+      "id": 395
     }
   ],
   "weekly_brief": [
