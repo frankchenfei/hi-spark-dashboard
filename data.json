@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T12:00:00.000000Z",
-  "week_label": "8/1 - 8/27",
+  "updated_at": "2026-08-29T12:00:00.000000Z",
+  "week_label": "8/1 - 8/28",
   "news": [
     {
       "id": 2008,
@@ -3196,6 +3196,69 @@
       "date": "8/27",
       "url": "https://m-cn.yna.co.kr/view/ACK20260827003700881",
       "id": 1313
+    },
+    {
+      "source": "TopOn",
+      "category": "平台更新",
+      "title": "TopOn 与 Taku 发布《2026H1 全球移动应用广告变现报告》",
+      "summary": "全球 eCPM 回暖，短剧与 AI 品类成高变现赛道，Meta 升至 Android 端第二",
+      "date": "8/28",
+      "url": "https://baijiahao.baidu.com/s?id=1874738267763257060",
+      "id": 1314
+    },
+    {
+      "source": "Meta Aud",
+      "category": "功能",
+      "title": "Meta Facebook 广告上线「强化投放此广告」功能",
+      "summary": "广告层级可手动为新素材预留保底预算，缓解新素材被老素材挤占问题",
+      "date": "8/28",
+      "url": "https://www.chwang.com/article/209323440321",
+      "id": 1315
+    },
+    {
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 将在印度 ChatGPT 免费版与 Go 版引入广告",
+      "summary": "首批覆盖 50 个品牌，合作 WPP 与 Omnicom，广告管理工具下月上线",
+      "date": "8/28",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33962471",
+      "id": 1316
+    },
+    {
+      "source": "Anthropic",
+      "category": "AI",
+      "title": "Anthropic 发布 MHS「硬件版 MCP」标准",
+      "summary": "统一硬件驱动与设备描述接口，让 Claude 可操控机械臂、显微镜等物理设备",
+      "date": "8/28",
+      "url": "https://www.163.com/dy/article/L5E3IHFC0511DSSR.html",
+      "id": 1317
+    },
+    {
+      "source": "Gemini",
+      "category": "AI",
+      "title": "谷歌内部开始测试 Gemini 3.8 Flash 预览版",
+      "summary": "以数周为间隔快速迭代，Flash 系列成主力模型",
+      "date": "8/28",
+      "url": "https://tech.ifeng.com/c/8vxVVMAd0PM",
+      "id": 1318
+    },
+    {
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星电子与 SK 海力士联合高通推进 HBC 芯片商业化",
+      "summary": "采用近内存计算架构，多颗 LPDDR 垂直堆叠于 XPU 之上",
+      "date": "8/28",
+      "url": "https://www.chinaflashmarket.com/newsflash/38702",
+      "id": 1319
+    },
+    {
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "穆迪确认台积电 Aa3 评级 展望上调至正面",
+      "summary": "反映其半导体制造市场地位强势与技术领先，受益 AI 与云计算增长",
+      "date": "8/28",
+      "url": "https://www.guandian.cn/article/20260828/593478.html",
+      "id": 1320
     }
   ],
   "ai_updates": [
@@ -3958,6 +4021,30 @@
       "summary": "六年期协议对应约 460 兆瓦电力",
       "url": "https://fund.eastmoney.com/a/202608273855314843.html",
       "id": 395
+    },
+    {
+      "source": "OpenAI",
+      "date": "8/28",
+      "title": "将在印度 ChatGPT 免费版与 Go 版引入广告",
+      "summary": "首批 50 个品牌，广告管理工具下月上线",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33962471",
+      "id": 396
+    },
+    {
+      "source": "Anthropic",
+      "date": "8/28",
+      "title": "发布 MHS「硬件版 MCP」标准",
+      "summary": "Claude 可操控机械臂、显微镜等物理设备",
+      "url": "https://www.163.com/dy/article/L5E3IHFC0511DSSR.html",
+      "id": 397
+    },
+    {
+      "source": "Gemini",
+      "date": "8/28",
+      "title": "谷歌内部开始测试 Gemini 3.8 Flash 预览版",
+      "summary": "Flash 系列成主力模型，快速迭代",
+      "url": "https://tech.ifeng.com/c/8vxVVMAd0PM",
+      "id": 398
     }
   ],
   "weekly_brief": [
