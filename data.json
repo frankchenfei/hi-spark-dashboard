@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T12:00:00.000000Z",
-  "week_label": "8/1 - 8/28",
+  "updated_at": "2026-09-01T12:00:00.000000Z",
+  "week_label": "8/1 - 8/31",
   "news": [
     {
       "id": 2008,
@@ -3259,6 +3259,78 @@
       "date": "8/28",
       "url": "https://www.guandian.cn/article/20260828/593478.html",
       "id": 1320
+    },
+    {
+      "source": "OpenAI",
+      "category": "AI",
+      "title": "OpenAI 因 SpaceX 收购 Cursor 将停止提供 AI 模型",
+      "summary": "拟终止日期 2026/11/12，原因系马斯克旗下公司屡次违约",
+      "date": "8/29",
+      "url": "https://news.17173.com/content/08292026/120415203.shtml",
+      "id": 1321
+    },
+    {
+      "source": "Zhipu",
+      "category": "AI",
+      "title": "智谱开源 GLM-5.3 模型权重 AA 综合指数 60 分",
+      "summary": "支持本地部署与商用，与 Claude Fable 5、GPT-5.6 Sol 同级",
+      "date": "8/29",
+      "url": "https://news.17173.com/content/08292026/140150366.shtml",
+      "id": 1322
+    },
+    {
+      "source": "天数智芯",
+      "category": "芯片",
+      "title": "天数智芯上半年营收 9.45 亿 同比增 191.6% 首次单期盈利",
+      "summary": "期内利润 1.07 亿，去年同期亏损 6.09 亿",
+      "date": "8/29",
+      "url": "http://www.eeo.com.cn/2026/0829/1016263.shtml",
+      "id": 1323
+    },
+    {
+      "source": "TSMC",
+      "category": "芯片",
+      "title": "台积电全面调涨代工价格 10%-15%",
+      "summary": "N3 已涨 15%，N2/N5 及成熟制程将补涨，外资上调目标价",
+      "date": "8/30",
+      "url": "https://www.x-techcon.com/article/180893.html",
+      "id": 1324
+    },
+    {
+      "source": "Meta Aud",
+      "category": "功能",
+      "title": "Meta 上线「个性化目的地」自动优化 创意增强默认开启",
+      "summary": "Meta 可自动替换广告落地页，逐步接管广告主投放控制权",
+      "date": "8/31",
+      "url": "http://biznews.sohu.com/a/1070144173_122502740",
+      "id": 1325
+    },
+    {
+      "source": "Doubao",
+      "category": "AI",
+      "title": "AI App 月报：豆包以 5.29 亿月活保持领先",
+      "summary": "头部应用月活整体回落，DeepSeek、千问环比两位数下降",
+      "date": "8/31",
+      "url": "https://www.bjnews.com.cn/detail-1788166530129320.html",
+      "id": 1326
+    },
+    {
+      "source": "SK Hynix",
+      "category": "芯片",
+      "title": "SK 海力士拟将部分 HBM 基础裸片交由英特尔生产",
+      "summary": "计划从第七代 HBM4E 开始，减少对台积电代工依赖",
+      "date": "8/31",
+      "url": "https://www.9fzt.com/724info/e04268fba7f2ce299f9c19ac476bd7ea.html",
+      "id": 1327
+    },
+    {
+      "source": "Samsung",
+      "category": "芯片",
+      "title": "三星配合英伟达开发 8 层 HBM4E",
+      "summary": "较原 12/16 层方案降低堆叠高度，速度规格提至 17-18Gbps",
+      "date": "8/31",
+      "url": "https://www.163.com/dy/article/L5M3ET2I05568W0A.html",
+      "id": 1328
     }
   ],
   "ai_updates": [
@@ -4045,6 +4117,30 @@
       "summary": "Flash 系列成主力模型，快速迭代",
       "url": "https://tech.ifeng.com/c/8vxVVMAd0PM",
       "id": 398
+    },
+    {
+      "source": "OpenAI",
+      "date": "8/29",
+      "title": "因 SpaceX 收购 Cursor 将停止提供 AI 模型",
+      "summary": "拟终止日期 2026/11/12",
+      "url": "https://news.17173.com/content/08292026/120415203.shtml",
+      "id": 399
+    },
+    {
+      "source": "Zhipu",
+      "date": "8/29",
+      "title": "开源 GLM-5.3 模型权重 AA 综合指数 60 分",
+      "summary": "与 Claude Fable 5、GPT-5.6 Sol 同级",
+      "url": "https://news.17173.com/content/08292026/140150366.shtml",
+      "id": 400
+    },
+    {
+      "source": "Doubao",
+      "date": "8/31",
+      "title": "AI App 月报：豆包以 5.29 亿月活保持领先",
+      "summary": "头部应用月活整体回落",
+      "url": "https://www.bjnews.com.cn/detail-1788166530129320.html",
+      "id": 401
     }
   ],
   "weekly_brief": [
